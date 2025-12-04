@@ -1,0 +1,2798 @@
+{
+  "locations": [
+    {
+      "id": "agassaim",
+      "name": "Agassaim",
+      "latitude": 15.43,
+      "longitude": 73.94,
+      "type": "village",
+      "vibe": [
+        "transit"
+      ],
+      "popular": false,
+      "description": "Gateway to Zuari Bridge",
+      "bestFor": [
+        "transit"
+      ],
+      "nearbyAttractions": [
+        "Zuari Bridge"
+      ],
+      "isStayingLocation": true
+    },
+    {
+      "id": "agonda",
+      "name": "Agonda",
+      "latitude": 15.0517,
+      "longitude": 73.9881,
+      "type": "beach",
+      "vibe": [
+        "peaceful",
+        "romantic",
+        "nature"
+      ],
+      "popular": true,
+      "description": "Serene beach perfect for relaxation",
+      "bestFor": [
+        "couples",
+        "solo travelers"
+      ],
+      "nearbyAttractions": [
+        "Cabo de Rama Fort",
+        "Butterfly Beach"
+      ],
+      "isStayingLocation": true
+    },
+    {
+      "id": "aldona",
+      "name": "Aldona",
+      "latitude": 15.59,
+      "longitude": 73.87,
+      "type": "village",
+      "vibe": [
+        "peaceful",
+        "cultural"
+      ],
+      "popular": false,
+      "description": "Beautiful village with backwaters",
+      "bestFor": [
+        "culture enthusiasts"
+      ],
+      "nearbyAttractions": [
+        "St. Thomas Church"
+      ],
+      "isStayingLocation": true
+    },
+    {
+      "id": "amona",
+      "name": "Amona",
+      "latitude": 15.5354085,
+      "longitude": 73.9838381,
+      "type": "town",
+      "vibe": [
+        "local"
+      ],
+      "description": "Location in Goa",
+      "popular": false,
+      "image": "default-place.png",
+      "isStayingLocation": true
+    },
+    {
+      "id": "amona-beach",
+      "name": "Amona Beach",
+      "latitude": 15.4909,
+      "longitude": 73.8278,
+      "type": "town",
+      "vibe": [
+        "local"
+      ],
+      "description": "Location in Goa (Approx)",
+      "popular": false,
+      "image": "default-place.png",
+      "isStayingLocation": true
+    },
+    {
+      "id": "anjuna",
+      "name": "Anjuna",
+      "latitude": 15.5733,
+      "longitude": 73.7406,
+      "type": "beach",
+      "vibe": [
+        "party",
+        "hippie",
+        "nightlife"
+      ],
+      "popular": true,
+      "description": "Famous for flea market and beach parties",
+      "bestFor": [
+        "young travelers",
+        "party lovers"
+      ],
+      "nearbyAttractions": [
+        "Anjuna Flea Market",
+        "Curlies Beach Shack"
+      ],
+      "isStayingLocation": true
+    },
+    {
+      "id": "aquem",
+      "name": "Aquem",
+      "latitude": 15.2722287,
+      "longitude": 73.9700286,
+      "type": "town",
+      "vibe": [
+        "local"
+      ],
+      "description": "Location in Goa",
+      "popular": false,
+      "image": "default-place.png",
+      "isStayingLocation": true
+    },
+    {
+      "id": "aquem-alto",
+      "name": "Aquem Alto",
+      "latitude": 15.2757864,
+      "longitude": 73.973283,
+      "type": "town",
+      "vibe": [
+        "local"
+      ],
+      "description": "Location in Goa",
+      "popular": false,
+      "image": "default-place.png",
+      "isStayingLocation": true
+    },
+    {
+      "id": "arambol",
+      "name": "Arambol",
+      "latitude": 15.6858,
+      "longitude": 73.7047,
+      "type": "beach",
+      "vibe": [
+        "bohemian",
+        "peaceful",
+        "artistic"
+      ],
+      "popular": true,
+      "description": "Bohemian paradise with sweet water lake",
+      "bestFor": [
+        "backpackers",
+        "artists"
+      ],
+      "nearbyAttractions": [
+        "Sweet Lake",
+        "Kalacha Beach"
+      ],
+      "isStayingLocation": true
+    },
+    {
+      "id": "arossim",
+      "name": "Arossim",
+      "latitude": 15.33,
+      "longitude": 73.89,
+      "type": "beach",
+      "vibe": [
+        "peaceful"
+      ],
+      "popular": false,
+      "description": "Quiet and scenic beach",
+      "bestFor": [
+        "peace seekers"
+      ],
+      "nearbyAttractions": [
+        "Cansaulim"
+      ],
+      "isStayingLocation": false
+    },
+    {
+      "id": "arpora",
+      "name": "Arpora",
+      "latitude": 15.5667,
+      "longitude": 73.7667,
+      "type": "town",
+      "vibe": [
+        "nightlife",
+        "shopping"
+      ],
+      "popular": true,
+      "description": "Hub for nightlife and Saturday Night Market",
+      "bestFor": [
+        "party lovers",
+        "shoppers"
+      ],
+      "nearbyAttractions": [
+        "Saturday Night Market",
+        "Club Cubana"
+      ],
+      "isStayingLocation": true
+    },
+    {
+      "id": "ashwem",
+      "name": "Ashwem",
+      "latitude": 15.64,
+      "longitude": 73.72,
+      "type": "beach",
+      "vibe": [
+        "upscale",
+        "peaceful"
+      ],
+      "popular": true,
+      "description": "Trendy beach with boutiques",
+      "bestFor": [
+        "luxury travelers"
+      ],
+      "nearbyAttractions": [
+        "La Plage"
+      ],
+      "isStayingLocation": false
+    },
+    {
+      "id": "assagao",
+      "name": "Assagao",
+      "latitude": 15.5833,
+      "longitude": 73.75,
+      "type": "village",
+      "vibe": [
+        "peaceful",
+        "artistic",
+        "upscale"
+      ],
+      "popular": false,
+      "description": "Charming village with cafes and art galleries",
+      "bestFor": [
+        "digital nomads",
+        "art lovers"
+      ],
+      "nearbyAttractions": [
+        "Artjuna Garden Cafe",
+        "Literati Bookshop"
+      ],
+      "isStayingLocation": true
+    },
+    {
+      "id": "assanora",
+      "name": "Assanora",
+      "latitude": 15.61,
+      "longitude": 73.88,
+      "type": "village",
+      "vibe": [
+        "local"
+      ],
+      "popular": false,
+      "description": "Quiet village in North Goa",
+      "bestFor": [
+        "peace seekers"
+      ],
+      "nearbyAttractions": [
+        "Local Temples"
+      ],
+      "isStayingLocation": true
+    },
+    {
+      "id": "baga",
+      "name": "Baga",
+      "latitude": 15.555,
+      "longitude": 73.7517,
+      "type": "beach",
+      "vibe": [
+        "party",
+        "water sports",
+        "nightlife"
+      ],
+      "popular": true,
+      "description": "Vibrant beach with water sports and nightlife",
+      "bestFor": [
+        "young travelers",
+        "adventure seekers"
+      ],
+      "nearbyAttractions": [
+        "Tito's Lane",
+        "Baga Beach Water Sports"
+      ],
+      "isStayingLocation": true
+    },
+    {
+      "id": "balli",
+      "name": "Balli",
+      "latitude": 15.151774,
+      "longitude": 74.0211809,
+      "type": "town",
+      "vibe": [
+        "local"
+      ],
+      "description": "Location in Goa",
+      "popular": false,
+      "image": "default-place.png",
+      "isStayingLocation": true
+    },
+    {
+      "id": "bambolim",
+      "name": "Bambolim",
+      "latitude": 15.45,
+      "longitude": 73.85,
+      "type": "town",
+      "vibe": [
+        "medical",
+        "student"
+      ],
+      "popular": false,
+      "description": "Home to Goa Medical College",
+      "bestFor": [
+        "students"
+      ],
+      "nearbyAttractions": [
+        "Bambolim Beach"
+      ],
+      "isStayingLocation": true
+    },
+    {
+      "id": "bambolim_beach",
+      "name": "Bambolim Beach",
+      "latitude": 15.45,
+      "longitude": 73.84,
+      "type": "beach",
+      "vibe": [
+        "peaceful"
+      ],
+      "popular": false,
+      "description": "Quiet bay beach",
+      "bestFor": [
+        "peace seekers"
+      ],
+      "nearbyAttractions": [
+        "Grand Hyatt"
+      ],
+      "isStayingLocation": true
+    },
+    {
+      "id": "banastarim",
+      "name": "Banastarim",
+      "latitude": 15.4921178,
+      "longitude": 73.9578306,
+      "type": "town",
+      "vibe": [
+        "local"
+      ],
+      "description": "Location in Goa",
+      "popular": false,
+      "image": "default-place.png",
+      "isStayingLocation": true
+    },
+    {
+      "id": "batim",
+      "name": "Batim",
+      "latitude": 15.4470162,
+      "longitude": 73.8834983,
+      "type": "town",
+      "vibe": [
+        "local"
+      ],
+      "description": "Location in Goa",
+      "popular": false,
+      "image": "default-place.png",
+      "isStayingLocation": true
+    },
+    {
+      "id": "benaulim",
+      "name": "Benaulim",
+      "latitude": 15.2667,
+      "longitude": 73.9333,
+      "type": "beach",
+      "vibe": [
+        "peaceful",
+        "family"
+      ],
+      "popular": true,
+      "description": "Quiet beach ideal for families",
+      "bestFor": [
+        "families",
+        "peace seekers"
+      ],
+      "nearbyAttractions": [
+        "Benaulim Beach",
+        "Goa Chitra Museum"
+      ],
+      "isStayingLocation": true
+    },
+    {
+      "id": "benaulim-beach",
+      "name": "Benaulim Beach",
+      "latitude": 15.25303,
+      "longitude": 73.9201954,
+      "type": "town",
+      "vibe": [
+        "local"
+      ],
+      "description": "Location in Goa",
+      "popular": false,
+      "image": "default-place.png",
+      "isStayingLocation": true
+    },
+    {
+      "id": "betalbatim",
+      "name": "Betalbatim",
+      "latitude": 15.29,
+      "longitude": 73.92,
+      "type": "beach",
+      "vibe": [
+        "peaceful",
+        "sunset"
+      ],
+      "popular": true,
+      "description": "Sunset beach",
+      "bestFor": [
+        "couples"
+      ],
+      "nearbyAttractions": [
+        "Sunset Beach"
+      ],
+      "isStayingLocation": true
+    },
+    {
+      "id": "bethora",
+      "name": "Bethora",
+      "latitude": 15.4909,
+      "longitude": 73.8278,
+      "type": "town",
+      "vibe": [
+        "local"
+      ],
+      "description": "Location in Goa (Approx)",
+      "popular": false,
+      "image": "default-place.png",
+      "isStayingLocation": true
+    },
+    {
+      "id": "betim",
+      "name": "Betim",
+      "latitude": 15.4917,
+      "longitude": 73.8167,
+      "type": "village",
+      "vibe": [
+        "local",
+        "peaceful"
+      ],
+      "popular": false,
+      "description": "Traditional Goan village across Mandovi",
+      "bestFor": [
+        "culture enthusiasts"
+      ],
+      "nearbyAttractions": [
+        "Reis Magos Fort"
+      ],
+      "isStayingLocation": true
+    },
+    {
+      "id": "betul",
+      "name": "Betul",
+      "latitude": 15.14,
+      "longitude": 73.96,
+      "type": "beach",
+      "vibe": [
+        "fishing",
+        "peaceful"
+      ],
+      "popular": false,
+      "description": "Fishing village with lighthouse",
+      "bestFor": [
+        "peace seekers"
+      ],
+      "nearbyAttractions": [
+        "Betul Lighthouse"
+      ],
+      "isStayingLocation": true
+    },
+    {
+      "id": "bhoma",
+      "name": "Bhoma",
+      "latitude": 15.4740716,
+      "longitude": 73.9632224,
+      "type": "town",
+      "vibe": [
+        "local"
+      ],
+      "description": "Location in Goa",
+      "popular": false,
+      "image": "default-place.png",
+      "isStayingLocation": true
+    },
+    {
+      "id": "bicholim",
+      "name": "Bicholim",
+      "latitude": 15.59,
+      "longitude": 73.95,
+      "type": "town",
+      "vibe": [
+        "local",
+        "mining"
+      ],
+      "popular": false,
+      "description": "Mining town with scenic lakes",
+      "bestFor": [
+        "nature lovers"
+      ],
+      "nearbyAttractions": [
+        "Mayem Lake"
+      ],
+      "isStayingLocation": true
+    },
+    {
+      "id": "bogmalo",
+      "name": "Bogmalo",
+      "latitude": 15.37,
+      "longitude": 73.83,
+      "type": "beach",
+      "vibe": [
+        "transit",
+        "beach"
+      ],
+      "popular": true,
+      "description": "Beach near airport",
+      "bestFor": [
+        "transit"
+      ],
+      "nearbyAttractions": [
+        "Naval Aviation Museum"
+      ],
+      "isStayingLocation": false
+    },
+    {
+      "id": "britona",
+      "name": "Britona",
+      "latitude": 15.51,
+      "longitude": 73.83,
+      "type": "village",
+      "vibe": [
+        "riverside"
+      ],
+      "popular": false,
+      "description": "Riverside village near Panaji",
+      "bestFor": [
+        "evening walks"
+      ],
+      "nearbyAttractions": [
+        "Britona Church"
+      ],
+      "isStayingLocation": true
+    },
+    {
+      "id": "cabo_de_rama",
+      "name": "Cabo De Rama",
+      "latitude": 15.0833,
+      "longitude": 73.9167,
+      "type": "historical",
+      "vibe": [
+        "historical",
+        "scenic"
+      ],
+      "popular": false,
+      "description": "Ancient fort with stunning sea views",
+      "bestFor": [
+        "history buffs",
+        "photographers"
+      ],
+      "nearbyAttractions": [
+        "Cabo de Rama Fort",
+        "Cabo Beach"
+      ],
+      "isStayingLocation": true
+    },
+    {
+      "id": "calangute",
+      "name": "Calangute",
+      "latitude": 15.5467,
+      "longitude": 73.7631,
+      "type": "beach",
+      "vibe": [
+        "crowded",
+        "commercial",
+        "water sports"
+      ],
+      "popular": true,
+      "description": "Queen of beaches with all amenities",
+      "bestFor": [
+        "first-time visitors",
+        "families"
+      ],
+      "nearbyAttractions": [
+        "Calangute Beach",
+        "St. Alex Church"
+      ],
+      "isStayingLocation": true
+    },
+    {
+      "id": "canacona",
+      "name": "Canacona",
+      "latitude": 15.0167,
+      "longitude": 74.05,
+      "type": "town",
+      "vibe": [
+        "peaceful",
+        "nature"
+      ],
+      "popular": false,
+      "description": "Gateway to South Goa beaches",
+      "bestFor": [
+        "nature lovers"
+      ],
+      "nearbyAttractions": [
+        "Palolem Beach",
+        "Cotigao Wildlife Sanctuary"
+      ],
+      "isStayingLocation": true
+    },
+    {
+      "id": "candolim",
+      "name": "Candolim",
+      "latitude": 15.5167,
+      "longitude": 73.7617,
+      "type": "beach",
+      "vibe": [
+        "upscale",
+        "peaceful",
+        "family"
+      ],
+      "popular": true,
+      "description": "Upscale beach with luxury resorts",
+      "bestFor": [
+        "luxury travelers",
+        "families"
+      ],
+      "nearbyAttractions": [
+        "Candolim Beach",
+        "Fort Aguada"
+      ],
+      "isStayingLocation": true
+    },
+    {
+      "id": "cansaulim",
+      "name": "Cansaulim",
+      "latitude": 15.34,
+      "longitude": 73.89,
+      "type": "beach",
+      "vibe": [
+        "peaceful"
+      ],
+      "popular": false,
+      "description": "Quiet beach village",
+      "bestFor": [
+        "peace seekers"
+      ],
+      "nearbyAttractions": [
+        "Three Kings Church"
+      ],
+      "isStayingLocation": true
+    },
+    {
+      "id": "caranzalem",
+      "name": "Caranzalem",
+      "latitude": 15.4833,
+      "longitude": 73.8167,
+      "type": "beach",
+      "vibe": [
+        "peaceful",
+        "local"
+      ],
+      "popular": false,
+      "description": "Quiet beach near Panaji",
+      "bestFor": [
+        "peace seekers"
+      ],
+      "nearbyAttractions": [
+        "Miramar Beach"
+      ],
+      "isStayingLocation": true
+    },
+    {
+      "id": "cavelossim",
+      "name": "Cavelossim",
+      "latitude": 15.17,
+      "longitude": 73.94,
+      "type": "beach",
+      "vibe": [
+        "luxury",
+        "peaceful"
+      ],
+      "popular": true,
+      "description": "Upscale beach destination",
+      "bestFor": [
+        "luxury travelers"
+      ],
+      "nearbyAttractions": [
+        "Sal River"
+      ],
+      "isStayingLocation": true
+    },
+    {
+      "id": "cavelossim",
+      "name": "Cavelossim",
+      "latitude": 15.17,
+      "longitude": 73.94,
+      "type": "beach",
+      "vibe": [
+        "luxury"
+      ],
+      "popular": true,
+      "description": "Luxury resort belt",
+      "bestFor": [
+        "luxury travelers"
+      ],
+      "nearbyAttractions": [
+        "Mobor"
+      ],
+      "isStayingLocation": false
+    },
+    {
+      "id": "chapora",
+      "name": "Chapora",
+      "latitude": 15.6,
+      "longitude": 73.7333,
+      "type": "village",
+      "vibe": [
+        "historical",
+        "scenic"
+      ],
+      "popular": true,
+      "description": "Famous for Dil Chahta Hai fort",
+      "bestFor": [
+        "photographers",
+        "movie buffs"
+      ],
+      "nearbyAttractions": [
+        "Chapora Fort"
+      ],
+      "isStayingLocation": true
+    },
+    {
+      "id": "chicalim",
+      "name": "Chicalim",
+      "latitude": 15.3918926,
+      "longitude": 73.8344664,
+      "type": "town",
+      "vibe": [
+        "local"
+      ],
+      "description": "Location in Goa",
+      "popular": false,
+      "image": "default-place.png",
+      "isStayingLocation": true
+    },
+    {
+      "id": "chinchinim",
+      "name": "Chinchinim",
+      "latitude": 15.2113807,
+      "longitude": 73.9772002,
+      "type": "town",
+      "vibe": [
+        "local"
+      ],
+      "description": "Location in Goa",
+      "popular": false,
+      "image": "default-place.png",
+      "isStayingLocation": true
+    },
+    {
+      "id": "chodan",
+      "name": "Chodan",
+      "latitude": 15.4909,
+      "longitude": 73.8278,
+      "type": "town",
+      "vibe": [
+        "local"
+      ],
+      "description": "Location in Goa (Approx)",
+      "popular": false,
+      "image": "default-place.png",
+      "isStayingLocation": true
+    },
+    {
+      "id": "chorao",
+      "name": "Chorao Island",
+      "latitude": 15.53,
+      "longitude": 73.86,
+      "type": "island",
+      "vibe": [
+        "nature"
+      ],
+      "popular": true,
+      "description": "Home to bird sanctuary",
+      "bestFor": [
+        "nature lovers"
+      ],
+      "nearbyAttractions": [
+        "Salim Ali Bird Sanctuary"
+      ],
+      "isStayingLocation": false
+    },
+    {
+      "id": "cola_beach",
+      "name": "Cola Beach",
+      "latitude": 15.1333,
+      "longitude": 73.9667,
+      "type": "beach",
+      "vibe": [
+        "secluded",
+        "romantic",
+        "nature"
+      ],
+      "popular": false,
+      "description": "Hidden gem with lagoon",
+      "bestFor": [
+        "couples",
+        "nature lovers"
+      ],
+      "nearbyAttractions": [
+        "Cola Lagoon"
+      ],
+      "isStayingLocation": true
+    },
+    {
+      "id": "collem",
+      "name": "Collem",
+      "latitude": 15.3371373,
+      "longitude": 74.2427454,
+      "type": "town",
+      "vibe": [
+        "local"
+      ],
+      "description": "Location in Goa",
+      "popular": false,
+      "image": "default-place.png",
+      "isStayingLocation": true
+    },
+    {
+      "id": "colmorod",
+      "name": "Colmorod",
+      "latitude": 15.4909,
+      "longitude": 73.8278,
+      "type": "town",
+      "vibe": [
+        "local"
+      ],
+      "description": "Location in Goa (Approx)",
+      "popular": false,
+      "image": "default-place.png",
+      "isStayingLocation": true
+    },
+    {
+      "id": "colva",
+      "name": "Colva",
+      "latitude": 15.28,
+      "longitude": 73.9117,
+      "type": "beach",
+      "vibe": [
+        "family",
+        "peaceful"
+      ],
+      "popular": true,
+      "description": "Long stretch of white sand beach",
+      "bestFor": [
+        "families",
+        "beach lovers"
+      ],
+      "nearbyAttractions": [
+        "Colva Beach",
+        "Church of Our Lady of Mercy"
+      ],
+      "isStayingLocation": true
+    },
+    {
+      "id": "colvale",
+      "name": "Colvale",
+      "latitude": 15.62,
+      "longitude": 73.83,
+      "type": "village",
+      "vibe": [
+        "riverside"
+      ],
+      "popular": false,
+      "description": "Scenic village on Chapora river",
+      "bestFor": [
+        "nature lovers"
+      ],
+      "nearbyAttractions": [
+        "Chapora River"
+      ],
+      "isStayingLocation": true
+    },
+    {
+      "id": "cortalim",
+      "name": "Cortalim",
+      "latitude": 15.4,
+      "longitude": 73.91,
+      "type": "town",
+      "vibe": [
+        "transit"
+      ],
+      "popular": false,
+      "description": "Junction town near Zuari bridge",
+      "bestFor": [
+        "transit"
+      ],
+      "nearbyAttractions": [
+        "Ferry Point"
+      ],
+      "isStayingLocation": true
+    },
+    {
+      "id": "cortalim-junction",
+      "name": "Cortalim Junction",
+      "latitude": 15.4909,
+      "longitude": 73.8278,
+      "type": "town",
+      "vibe": [
+        "local"
+      ],
+      "description": "Location in Goa (Approx)",
+      "popular": false,
+      "image": "default-place.png",
+      "isStayingLocation": true
+    },
+    {
+      "id": "cuncolim",
+      "name": "Cuncolim",
+      "latitude": 15.18,
+      "longitude": 74,
+      "type": "town",
+      "vibe": [
+        "historical"
+      ],
+      "popular": false,
+      "description": "Historical town in South Goa",
+      "bestFor": [
+        "history buffs"
+      ],
+      "nearbyAttractions": [
+        "Chieftains Memorial"
+      ],
+      "isStayingLocation": true
+    },
+    {
+      "id": "curca",
+      "name": "Curca",
+      "latitude": 15.4608194,
+      "longitude": 73.8778694,
+      "type": "town",
+      "vibe": [
+        "local"
+      ],
+      "description": "Location in Goa",
+      "popular": false,
+      "image": "default-place.png",
+      "isStayingLocation": true
+    },
+    {
+      "id": "dabolim_airport",
+      "name": "Dabolim Airport",
+      "latitude": 15.3808,
+      "longitude": 73.8314,
+      "type": "airport",
+      "vibe": [
+        "transit"
+      ],
+      "popular": true,
+      "description": "Goa International Airport",
+      "bestFor": [
+        "arrivals"
+      ],
+      "nearbyAttractions": [
+        "Vasco da Gama"
+      ],
+      "isStayingLocation": true
+    },
+    {
+      "id": "dabolim-city",
+      "name": "Dabolim City",
+      "latitude": 15.4909,
+      "longitude": 73.8278,
+      "type": "town",
+      "vibe": [
+        "local"
+      ],
+      "description": "Location in Goa (Approx)",
+      "popular": false,
+      "image": "default-place.png",
+      "isStayingLocation": true
+    },
+    {
+      "id": "davorlim",
+      "name": "Davorlim",
+      "latitude": 15.4909,
+      "longitude": 73.8278,
+      "type": "town",
+      "vibe": [
+        "local"
+      ],
+      "description": "Location in Goa (Approx)",
+      "popular": false,
+      "image": "default-place.png",
+      "isStayingLocation": true
+    },
+    {
+      "id": "dharbandora",
+      "name": "Dharbandora",
+      "latitude": 15.3883514,
+      "longitude": 74.1837204,
+      "type": "town",
+      "vibe": [
+        "local"
+      ],
+      "description": "Location in Goa",
+      "popular": false,
+      "image": "default-place.png",
+      "isStayingLocation": true
+    },
+    {
+      "id": "divar_island",
+      "name": "Divar Island",
+      "latitude": 15.51,
+      "longitude": 73.91,
+      "type": "island",
+      "vibe": [
+        "peaceful",
+        "scenic"
+      ],
+      "popular": true,
+      "description": "Scenic island accessible by ferry",
+      "bestFor": [
+        "explorers"
+      ],
+      "nearbyAttractions": [
+        "Our Lady of Piety Church"
+      ],
+      "isStayingLocation": true
+    },
+    {
+      "id": "dona_paula",
+      "name": "Dona Paula",
+      "latitude": 15.4533,
+      "longitude": 73.8067,
+      "type": "beach",
+      "vibe": [
+        "romantic",
+        "scenic"
+      ],
+      "popular": true,
+      "description": "Romantic spot with jetty and viewpoint",
+      "bestFor": [
+        "couples",
+        "photographers"
+      ],
+      "nearbyAttractions": [
+        "Dona Paula Jetty",
+        "National Institute of Oceanography"
+      ],
+      "isStayingLocation": true
+    },
+    {
+      "id": "dudhsagar",
+      "name": "Dudhsagar",
+      "latitude": 15.31,
+      "longitude": 74.31,
+      "type": "waterfall",
+      "vibe": [
+        "adventure",
+        "nature"
+      ],
+      "popular": true,
+      "description": "Majestic four-tiered waterfall",
+      "bestFor": [
+        "adventure seekers"
+      ],
+      "nearbyAttractions": [
+        "Dudhsagar Waterfalls"
+      ],
+      "isStayingLocation": true
+    },
+    {
+      "id": "farmagudi",
+      "name": "Farmagudi",
+      "latitude": 15.4117952,
+      "longitude": 73.9899158,
+      "type": "town",
+      "vibe": [
+        "local"
+      ],
+      "description": "Location in Goa",
+      "popular": false,
+      "image": "default-place.png",
+      "isStayingLocation": true
+    },
+    {
+      "id": "fatorda",
+      "name": "Fatorda",
+      "latitude": 15.29,
+      "longitude": 73.96,
+      "type": "town",
+      "vibe": [
+        "sports",
+        "residential"
+      ],
+      "popular": false,
+      "description": "Sports hub of Goa",
+      "bestFor": [
+        "sports fans"
+      ],
+      "nearbyAttractions": [
+        "Fatorda Stadium"
+      ],
+      "isStayingLocation": true
+    },
+    {
+      "id": "galgibaga",
+      "name": "Galgibaga",
+      "latitude": 14.97,
+      "longitude": 74.04,
+      "type": "beach",
+      "vibe": [
+        "nature",
+        "peaceful"
+      ],
+      "popular": false,
+      "description": "Turtle nesting site",
+      "bestFor": [
+        "nature lovers"
+      ],
+      "nearbyAttractions": [
+        "Turtle Beach"
+      ],
+      "isStayingLocation": false
+    },
+    {
+      "id": "ganjem",
+      "name": "Ganjem",
+      "latitude": 15.4658409,
+      "longitude": 74.0875053,
+      "type": "town",
+      "vibe": [
+        "local"
+      ],
+      "description": "Location in Goa",
+      "popular": false,
+      "image": "default-place.png",
+      "isStayingLocation": true
+    },
+    {
+      "id": "goa_velha",
+      "name": "Goa Velha",
+      "latitude": 15.44,
+      "longitude": 73.88,
+      "type": "historical",
+      "vibe": [
+        "historical"
+      ],
+      "popular": false,
+      "description": "Ancient capital of Goa",
+      "bestFor": [
+        "history buffs"
+      ],
+      "nearbyAttractions": [
+        "Procession of Saints"
+      ],
+      "isStayingLocation": true
+    },
+    {
+      "id": "gogol",
+      "name": "Gogol",
+      "latitude": 15.285712,
+      "longitude": 73.978116,
+      "type": "town",
+      "vibe": [
+        "local"
+      ],
+      "description": "Location in Goa",
+      "popular": false,
+      "image": "default-place.png",
+      "isStayingLocation": true
+    },
+    {
+      "id": "gudi-paroda",
+      "name": "Gudi Paroda",
+      "latitude": 15.4909,
+      "longitude": 73.8278,
+      "type": "town",
+      "vibe": [
+        "local"
+      ],
+      "description": "Location in Goa (Approx)",
+      "popular": false,
+      "image": "default-place.png",
+      "isStayingLocation": true
+    },
+    {
+      "id": "harvalem",
+      "name": "Harvalem",
+      "latitude": 15.5651503,
+      "longitude": 74.0462153,
+      "type": "town",
+      "vibe": [
+        "local"
+      ],
+      "description": "Location in Goa",
+      "popular": false,
+      "image": "default-place.png",
+      "isStayingLocation": true
+    },
+    {
+      "id": "hollant",
+      "name": "Hollant",
+      "latitude": 15.36,
+      "longitude": 73.86,
+      "type": "beach",
+      "vibe": [
+        "scenic"
+      ],
+      "popular": false,
+      "description": "Curved bay with calm water",
+      "bestFor": [
+        "swimmers"
+      ],
+      "nearbyAttractions": [
+        "Bogmalo"
+      ],
+      "isStayingLocation": false
+    },
+    {
+      "id": "kakolem",
+      "name": "Kakolem",
+      "latitude": 15.07,
+      "longitude": 73.94,
+      "type": "beach",
+      "vibe": [
+        "secluded",
+        "adventure"
+      ],
+      "popular": false,
+      "description": "Tiger beach, hard to reach",
+      "bestFor": [
+        "adventurers"
+      ],
+      "nearbyAttractions": [
+        "Waterfall"
+      ],
+      "isStayingLocation": false
+    },
+    {
+      "id": "karmali_station",
+      "name": "Karmali Railway Station",
+      "latitude": 15.5167,
+      "longitude": 73.9333,
+      "type": "railway_station",
+      "vibe": [
+        "transit"
+      ],
+      "popular": false,
+      "description": "Railway station in North Goa",
+      "bestFor": [
+        "arrivals"
+      ],
+      "nearbyAttractions": [
+        "Old Goa Churches"
+      ],
+      "isStayingLocation": true
+    },
+    {
+      "id": "keri",
+      "name": "Keri",
+      "latitude": 15.6094079,
+      "longitude": 74.065007,
+      "type": "town",
+      "vibe": [
+        "local"
+      ],
+      "description": "Location in Goa",
+      "popular": false,
+      "image": "default-place.png",
+      "isStayingLocation": true
+    },
+    {
+      "id": "keri-beach",
+      "name": "Keri Beach",
+      "latitude": 15.4909,
+      "longitude": 73.8278,
+      "type": "town",
+      "vibe": [
+        "local"
+      ],
+      "description": "Location in Goa (Approx)",
+      "popular": false,
+      "image": "default-place.png",
+      "isStayingLocation": true
+    },
+    {
+      "id": "khandepar",
+      "name": "Khandepar",
+      "latitude": 15.4244754,
+      "longitude": 74.0450191,
+      "type": "town",
+      "vibe": [
+        "local"
+      ],
+      "description": "Location in Goa",
+      "popular": false,
+      "image": "default-place.png",
+      "isStayingLocation": true
+    },
+    {
+      "id": "korgao",
+      "name": "Korgao",
+      "latitude": 15.7097724,
+      "longitude": 73.7516419,
+      "type": "town",
+      "vibe": [
+        "local"
+      ],
+      "description": "Location in Goa",
+      "popular": false,
+      "image": "default-place.png",
+      "isStayingLocation": true
+    },
+    {
+      "id": "kundaim",
+      "name": "Kundaim",
+      "latitude": 15.460227,
+      "longitude": 73.96912,
+      "type": "town",
+      "vibe": [
+        "local"
+      ],
+      "description": "Location in Goa",
+      "popular": false,
+      "image": "default-place.png",
+      "isStayingLocation": true
+    },
+    {
+      "id": "loutolim",
+      "name": "Loutolim",
+      "latitude": 15.33,
+      "longitude": 73.97,
+      "type": "village",
+      "vibe": [
+        "cultural",
+        "historical"
+      ],
+      "popular": true,
+      "description": "Village of ancestral mansions",
+      "bestFor": [
+        "culture enthusiasts"
+      ],
+      "nearbyAttractions": [
+        "Big Foot Goa"
+      ],
+      "isStayingLocation": true
+    },
+    {
+      "id": "macazana",
+      "name": "Macazana",
+      "latitude": 15.4909,
+      "longitude": 73.8278,
+      "type": "town",
+      "vibe": [
+        "local"
+      ],
+      "description": "Location in Goa (Approx)",
+      "popular": false,
+      "image": "default-place.png",
+      "isStayingLocation": true
+    },
+    {
+      "id": "madgaon_station",
+      "name": "Madgaon Railway Station",
+      "latitude": 15.2667,
+      "longitude": 73.9583,
+      "type": "railway_station",
+      "vibe": [
+        "transit"
+      ],
+      "popular": true,
+      "description": "Main railway station in South Goa",
+      "bestFor": [
+        "arrivals"
+      ],
+      "nearbyAttractions": [
+        "Margao Market"
+      ],
+      "isStayingLocation": true
+    },
+    {
+      "id": "majorda",
+      "name": "Majorda",
+      "latitude": 15.3333,
+      "longitude": 73.9167,
+      "type": "beach",
+      "vibe": [
+        "peaceful",
+        "family"
+      ],
+      "popular": false,
+      "description": "Quiet beach with soft sand",
+      "bestFor": [
+        "families",
+        "peace seekers"
+      ],
+      "nearbyAttractions": [
+        "Majorda Beach"
+      ],
+      "isStayingLocation": true
+    },
+    {
+      "id": "mallim",
+      "name": "Mallim",
+      "latitude": 15.4909,
+      "longitude": 73.8278,
+      "type": "town",
+      "vibe": [
+        "local"
+      ],
+      "description": "Location in Goa (Approx)",
+      "popular": false,
+      "image": "default-place.png",
+      "isStayingLocation": true
+    },
+    {
+      "id": "mandrem",
+      "name": "Mandrem",
+      "latitude": 15.6667,
+      "longitude": 73.7167,
+      "type": "beach",
+      "vibe": [
+        "peaceful",
+        "bohemian"
+      ],
+      "popular": true,
+      "description": "Serene beach with yoga retreats",
+      "bestFor": [
+        "yoga enthusiasts",
+        "peace seekers"
+      ],
+      "nearbyAttractions": [
+        "Mandrem Beach",
+        "Ashwem Beach"
+      ],
+      "isStayingLocation": true
+    },
+    {
+      "id": "mapusa",
+      "name": "Mapusa",
+      "latitude": 15.5933,
+      "longitude": 73.8083,
+      "type": "city",
+      "vibe": [
+        "local",
+        "shopping"
+      ],
+      "popular": true,
+      "description": "Bustling market town",
+      "bestFor": [
+        "shoppers",
+        "culture enthusiasts"
+      ],
+      "nearbyAttractions": [
+        "Mapusa Market",
+        "St. Jerome Church"
+      ],
+      "isStayingLocation": true
+    },
+    {
+      "id": "mardol",
+      "name": "Mardol",
+      "latitude": 15.4414884,
+      "longitude": 73.9735674,
+      "type": "town",
+      "vibe": [
+        "local"
+      ],
+      "description": "Location in Goa",
+      "popular": false,
+      "image": "default-place.png",
+      "isStayingLocation": true
+    },
+    {
+      "id": "margao",
+      "name": "Margao",
+      "latitude": 15.27,
+      "longitude": 73.96,
+      "type": "city",
+      "vibe": [
+        "commercial",
+        "cultural"
+      ],
+      "popular": true,
+      "description": "Commercial capital of South Goa",
+      "bestFor": [
+        "shoppers"
+      ],
+      "nearbyAttractions": [
+        "Margao Market"
+      ],
+      "isStayingLocation": false
+    },
+    {
+      "id": "miramar",
+      "name": "Miramar",
+      "latitude": 15.4833,
+      "longitude": 73.8,
+      "type": "beach",
+      "vibe": [
+        "city beach",
+        "family"
+      ],
+      "popular": true,
+      "description": "City beach near Panaji",
+      "bestFor": [
+        "families",
+        "evening walks"
+      ],
+      "nearbyAttractions": [
+        "Miramar Beach",
+        "Gaspar Dias Fort"
+      ],
+      "isStayingLocation": true
+    },
+    {
+      "id": "mobor",
+      "name": "Mobor",
+      "latitude": 15.1667,
+      "longitude": 73.9833,
+      "type": "beach",
+      "vibe": [
+        "luxury",
+        "peaceful"
+      ],
+      "popular": false,
+      "description": "Pristine beach with luxury resorts",
+      "bestFor": [
+        "luxury travelers"
+      ],
+      "nearbyAttractions": [
+        "Mobor Beach",
+        "Sal River"
+      ],
+      "isStayingLocation": true
+    },
+    {
+      "id": "molem",
+      "name": "Molem",
+      "latitude": 15.37,
+      "longitude": 74.23,
+      "type": "nature",
+      "vibe": [
+        "nature",
+        "wildlife"
+      ],
+      "popular": false,
+      "description": "Gateway to Bhagwan Mahaveer Sanctuary",
+      "bestFor": [
+        "nature lovers"
+      ],
+      "nearbyAttractions": [
+        "Tambdi Surla Temple"
+      ],
+      "isStayingLocation": true
+    },
+    {
+      "id": "mollem",
+      "name": "Mollem",
+      "latitude": 15.3750107,
+      "longitude": 74.2268533,
+      "type": "town",
+      "vibe": [
+        "local"
+      ],
+      "description": "Location in Goa",
+      "popular": false,
+      "image": "default-place.png",
+      "isStayingLocation": true
+    },
+    {
+      "id": "mopa_airport",
+      "name": "Mopa Airport",
+      "latitude": 15.85,
+      "longitude": 73.8333,
+      "type": "airport",
+      "vibe": [
+        "transit"
+      ],
+      "popular": true,
+      "description": "New Goa International Airport",
+      "bestFor": [
+        "arrivals"
+      ],
+      "nearbyAttractions": [
+        "North Goa Beaches"
+      ],
+      "isStayingLocation": true
+    },
+    {
+      "id": "morjim",
+      "name": "Morjim",
+      "latitude": 15.6333,
+      "longitude": 73.7333,
+      "type": "beach",
+      "vibe": [
+        "peaceful",
+        "nature",
+        "upscale"
+      ],
+      "popular": true,
+      "description": "Turtle nesting beach, Little Russia",
+      "bestFor": [
+        "nature lovers",
+        "peace seekers"
+      ],
+      "nearbyAttractions": [
+        "Morjim Beach",
+        "Turtle Nesting Site"
+      ],
+      "isStayingLocation": true
+    },
+    {
+      "id": "nanora",
+      "name": "Nanora",
+      "latitude": 15.4909,
+      "longitude": 73.8278,
+      "type": "town",
+      "vibe": [
+        "local"
+      ],
+      "description": "Location in Goa (Approx)",
+      "popular": false,
+      "image": "default-place.png",
+      "isStayingLocation": true
+    },
+    {
+      "id": "navelim",
+      "name": "Navelim",
+      "latitude": 15.2833,
+      "longitude": 73.9667,
+      "type": "village",
+      "vibe": [
+        "local",
+        "peaceful"
+      ],
+      "popular": false,
+      "description": "Traditional Goan village",
+      "bestFor": [
+        "culture enthusiasts"
+      ],
+      "nearbyAttractions": [
+        "Local Churches"
+      ],
+      "isStayingLocation": true
+    },
+    {
+      "id": "nerul",
+      "name": "Nerul",
+      "latitude": 15.4167,
+      "longitude": 73.8333,
+      "type": "village",
+      "vibe": [
+        "local"
+      ],
+      "popular": false,
+      "description": "Riverside village",
+      "bestFor": [
+        "culture enthusiasts"
+      ],
+      "nearbyAttractions": [
+        "Nerul River"
+      ],
+      "isStayingLocation": true
+    },
+    {
+      "id": "netravali",
+      "name": "Netravali",
+      "latitude": 15.08,
+      "longitude": 74.21,
+      "type": "nature",
+      "vibe": [
+        "nature",
+        "waterfall"
+      ],
+      "popular": true,
+      "description": "Wildlife sanctuary and bubbling lake",
+      "bestFor": [
+        "trekkers"
+      ],
+      "nearbyAttractions": [
+        "Bubbling Lake"
+      ],
+      "isStayingLocation": true
+    },
+    {
+      "id": "nuvem",
+      "name": "Nuvem",
+      "latitude": 15.31,
+      "longitude": 73.94,
+      "type": "village",
+      "vibe": [
+        "educational"
+      ],
+      "popular": false,
+      "description": "Educational hub",
+      "bestFor": [
+        "students"
+      ],
+      "nearbyAttractions": [
+        "Nuvem Church"
+      ],
+      "isStayingLocation": true
+    },
+    {
+      "id": "odxel",
+      "name": "Odxel",
+      "latitude": 15.4535402,
+      "longitude": 73.8306272,
+      "type": "town",
+      "vibe": [
+        "local"
+      ],
+      "description": "Location in Goa",
+      "popular": false,
+      "image": "default-place.png",
+      "isStayingLocation": true
+    },
+    {
+      "id": "olaulim",
+      "name": "Olaulim",
+      "latitude": 15.5701583,
+      "longitude": 73.8691666,
+      "type": "town",
+      "vibe": [
+        "local"
+      ],
+      "description": "Location in Goa",
+      "popular": false,
+      "image": "default-place.png",
+      "isStayingLocation": true
+    },
+    {
+      "id": "old_goa",
+      "name": "Old Goa",
+      "latitude": 15.5,
+      "longitude": 73.9167,
+      "type": "historical",
+      "vibe": [
+        "historical",
+        "cultural"
+      ],
+      "popular": true,
+      "description": "UNESCO World Heritage Site with churches",
+      "bestFor": [
+        "history buffs",
+        "culture enthusiasts"
+      ],
+      "nearbyAttractions": [
+        "Basilica of Bom Jesus",
+        "Se Cathedral"
+      ],
+      "isStayingLocation": true
+    },
+    {
+      "id": "orlim",
+      "name": "Orlim",
+      "latitude": 15.2113931,
+      "longitude": 73.9370708,
+      "type": "town",
+      "vibe": [
+        "local"
+      ],
+      "description": "Location in Goa",
+      "popular": false,
+      "image": "default-place.png",
+      "isStayingLocation": true
+    },
+    {
+      "id": "ozran",
+      "name": "Ozran",
+      "latitude": 15.59,
+      "longitude": 73.74,
+      "type": "beach",
+      "vibe": [
+        "party",
+        "scenic"
+      ],
+      "popular": true,
+      "description": "Little Vagator",
+      "bestFor": [
+        "party lovers"
+      ],
+      "nearbyAttractions": [
+        "Shiva Face"
+      ],
+      "isStayingLocation": false
+    },
+    {
+      "id": "pale",
+      "name": "Pale",
+      "latitude": 15.5930257,
+      "longitude": 74.1380299,
+      "type": "town",
+      "vibe": [
+        "local"
+      ],
+      "description": "Location in Goa",
+      "popular": false,
+      "image": "default-place.png",
+      "isStayingLocation": true
+    },
+    {
+      "id": "palolem",
+      "name": "Palolem",
+      "latitude": 15.01,
+      "longitude": 74.0233,
+      "type": "beach",
+      "vibe": [
+        "peaceful",
+        "romantic",
+        "backpacker"
+      ],
+      "popular": true,
+      "description": "Crescent-shaped paradise beach",
+      "bestFor": [
+        "backpackers",
+        "couples",
+        "families"
+      ],
+      "nearbyAttractions": [
+        "Palolem Beach",
+        "Butterfly Beach",
+        "Silent Noise Party"
+      ],
+      "isStayingLocation": false
+    },
+    {
+      "id": "panaji",
+      "name": "Panaji",
+      "latitude": 15.4909,
+      "longitude": 73.8278,
+      "type": "city",
+      "vibe": [
+        "capital",
+        "cultural",
+        "shopping"
+      ],
+      "popular": true,
+      "description": "Capital city with Portuguese heritage",
+      "bestFor": [
+        "all travelers"
+      ],
+      "nearbyAttractions": [
+        "Fontainhas",
+        "Church Square",
+        "Miramar Beach"
+      ],
+      "isStayingLocation": true
+    },
+    {
+      "id": "paroda",
+      "name": "Paroda",
+      "latitude": 15.2384805,
+      "longitude": 74.0239949,
+      "type": "town",
+      "vibe": [
+        "local"
+      ],
+      "description": "Location in Goa",
+      "popular": false,
+      "image": "default-place.png",
+      "isStayingLocation": true
+    },
+    {
+      "id": "parra",
+      "name": "Parra",
+      "latitude": 15.5833,
+      "longitude": 73.7667,
+      "type": "village",
+      "vibe": [
+        "peaceful",
+        "local"
+      ],
+      "popular": false,
+      "description": "Quiet village near Mapusa",
+      "bestFor": [
+        "peace seekers"
+      ],
+      "nearbyAttractions": [
+        "Mae De Deus Church"
+      ],
+      "isStayingLocation": true
+    },
+    {
+      "id": "patnem",
+      "name": "Patnem",
+      "latitude": 15.0167,
+      "longitude": 74.0167,
+      "type": "beach",
+      "vibe": [
+        "peaceful",
+        "bohemian"
+      ],
+      "popular": false,
+      "description": "Quiet beach next to Palolem",
+      "bestFor": [
+        "peace seekers",
+        "yoga enthusiasts"
+      ],
+      "nearbyAttractions": [
+        "Patnem Beach"
+      ],
+      "isStayingLocation": true
+    },
+    {
+      "id": "pernem",
+      "name": "Pernem",
+      "latitude": 15.7167,
+      "longitude": 73.7833,
+      "type": "town",
+      "vibe": [
+        "local"
+      ],
+      "popular": false,
+      "description": "Northernmost town in Goa",
+      "bestFor": [
+        "culture enthusiasts"
+      ],
+      "nearbyAttractions": [
+        "Tiracol Fort"
+      ],
+      "isStayingLocation": true
+    },
+    {
+      "id": "pilerne",
+      "name": "Pilerne",
+      "latitude": 15.53,
+      "longitude": 73.79,
+      "type": "village",
+      "vibe": [
+        "peaceful",
+        "nature"
+      ],
+      "popular": false,
+      "description": "Bird watching paradise",
+      "bestFor": [
+        "nature lovers"
+      ],
+      "nearbyAttractions": [
+        "Pilerne Lake"
+      ],
+      "isStayingLocation": true
+    },
+    {
+      "id": "poinguinim",
+      "name": "Poinguinim",
+      "latitude": 14.967549,
+      "longitude": 74.0866348,
+      "type": "town",
+      "vibe": [
+        "local"
+      ],
+      "description": "Location in Goa",
+      "popular": false,
+      "image": "default-place.png",
+      "isStayingLocation": true
+    },
+    {
+      "id": "ponda",
+      "name": "Ponda",
+      "latitude": 15.4,
+      "longitude": 74.0167,
+      "type": "city",
+      "vibe": [
+        "cultural",
+        "religious"
+      ],
+      "popular": true,
+      "description": "Temple town of Goa",
+      "bestFor": [
+        "culture enthusiasts",
+        "spiritual seekers"
+      ],
+      "nearbyAttractions": [
+        "Mangeshi Temple",
+        "Shanta Durga Temple",
+        "Spice Plantations"
+      ],
+      "isStayingLocation": true
+    },
+    {
+      "id": "porvorim",
+      "name": "Porvorim",
+      "latitude": 15.5333,
+      "longitude": 73.8167,
+      "type": "town",
+      "vibe": [
+        "residential"
+      ],
+      "popular": false,
+      "description": "Residential area near Panaji",
+      "bestFor": [
+        "long stays"
+      ],
+      "nearbyAttractions": [
+        "Goa Assembly"
+      ],
+      "isStayingLocation": true
+    },
+    {
+      "id": "quepem",
+      "name": "Quepem",
+      "latitude": 15.21,
+      "longitude": 74.07,
+      "type": "town",
+      "vibe": [
+        "historical"
+      ],
+      "popular": false,
+      "description": "Historical town with colonial architecture",
+      "bestFor": [
+        "history buffs"
+      ],
+      "nearbyAttractions": [
+        "Palacio do Deao"
+      ],
+      "isStayingLocation": true
+    },
+    {
+      "id": "querim",
+      "name": "Querim (Keri)",
+      "latitude": 15.72,
+      "longitude": 73.7,
+      "type": "beach",
+      "vibe": [
+        "peaceful",
+        "scenic"
+      ],
+      "popular": false,
+      "description": "Northernmost beach of Goa",
+      "bestFor": [
+        "peace seekers"
+      ],
+      "nearbyAttractions": [
+        "Tiracol Fort"
+      ],
+      "isStayingLocation": false
+    },
+    {
+      "id": "quitol",
+      "name": "Quitol",
+      "latitude": 15.1336516,
+      "longitude": 73.9627504,
+      "type": "town",
+      "vibe": [
+        "local"
+      ],
+      "description": "Location in Goa",
+      "popular": false,
+      "image": "default-place.png",
+      "isStayingLocation": true
+    },
+    {
+      "id": "raia",
+      "name": "Raia",
+      "latitude": 15.31,
+      "longitude": 73.99,
+      "type": "village",
+      "vibe": [
+        "peaceful"
+      ],
+      "popular": false,
+      "description": "Scenic village with paddy fields",
+      "bestFor": [
+        "peace seekers"
+      ],
+      "nearbyAttractions": [
+        "Rachol Seminary"
+      ],
+      "isStayingLocation": true
+    },
+    {
+      "id": "reis_magos",
+      "name": "Reis Magos",
+      "latitude": 15.49,
+      "longitude": 73.81,
+      "type": "historical",
+      "vibe": [
+        "historical",
+        "scenic"
+      ],
+      "popular": true,
+      "description": "Home to restored fort",
+      "bestFor": [
+        "history buffs"
+      ],
+      "nearbyAttractions": [
+        "Reis Magos Fort"
+      ],
+      "isStayingLocation": true
+    },
+    {
+      "id": "rivona",
+      "name": "Rivona",
+      "latitude": 15.163175,
+      "longitude": 74.110743,
+      "type": "town",
+      "vibe": [
+        "local"
+      ],
+      "description": "Location in Goa",
+      "popular": false,
+      "image": "default-place.png",
+      "isStayingLocation": true
+    },
+    {
+      "id": "saligao",
+      "name": "Saligao",
+      "latitude": 15.55,
+      "longitude": 73.7833,
+      "type": "village",
+      "vibe": [
+        "peaceful",
+        "artistic"
+      ],
+      "popular": false,
+      "description": "Quaint village with cafes",
+      "bestFor": [
+        "digital nomads",
+        "peace seekers"
+      ],
+      "nearbyAttractions": [
+        "Mae De Deus Church"
+      ],
+      "isStayingLocation": true
+    },
+    {
+      "id": "sancoale",
+      "name": "Sancoale",
+      "latitude": 15.3886307,
+      "longitude": 73.8893336,
+      "type": "town",
+      "vibe": [
+        "local"
+      ],
+      "description": "Location in Goa",
+      "popular": false,
+      "image": "default-place.png",
+      "isStayingLocation": true
+    },
+    {
+      "id": "sancoale-beach",
+      "name": "Sancoale Beach",
+      "latitude": 15.4909,
+      "longitude": 73.8278,
+      "type": "town",
+      "vibe": [
+        "local"
+      ],
+      "description": "Location in Goa (Approx)",
+      "popular": false,
+      "image": "default-place.png",
+      "isStayingLocation": true
+    },
+    {
+      "id": "sanguem",
+      "name": "Sanguem",
+      "latitude": 15.23,
+      "longitude": 74.15,
+      "type": "town",
+      "vibe": [
+        "nature"
+      ],
+      "popular": false,
+      "description": "Mining town near dam",
+      "bestFor": [
+        "nature lovers"
+      ],
+      "nearbyAttractions": [
+        "Salaulim Dam"
+      ],
+      "isStayingLocation": true
+    },
+    {
+      "id": "sanquelim",
+      "name": "Sanquelim",
+      "latitude": 15.56,
+      "longitude": 74.01,
+      "type": "town",
+      "vibe": [
+        "local"
+      ],
+      "popular": false,
+      "description": "Hometown of Goa's CM",
+      "bestFor": [
+        "culture enthusiasts"
+      ],
+      "nearbyAttractions": [
+        "Harvalem Waterfall"
+      ],
+      "isStayingLocation": true
+    },
+    {
+      "id": "sao-jose-de-areal",
+      "name": "Sao Jose de Areal",
+      "latitude": 15.4909,
+      "longitude": 73.8278,
+      "type": "town",
+      "vibe": [
+        "local"
+      ],
+      "description": "Location in Goa (Approx)",
+      "popular": false,
+      "image": "default-place.png",
+      "isStayingLocation": true
+    },
+    {
+      "id": "savoi-verem",
+      "name": "Savoi Verem",
+      "latitude": 15.4808394,
+      "longitude": 74.0195808,
+      "type": "town",
+      "vibe": [
+        "local"
+      ],
+      "description": "Location in Goa",
+      "popular": false,
+      "image": "default-place.png",
+      "isStayingLocation": true
+    },
+    {
+      "id": "seraulim",
+      "name": "Seraulim",
+      "latitude": 15.4909,
+      "longitude": 73.8278,
+      "type": "town",
+      "vibe": [
+        "local"
+      ],
+      "description": "Location in Goa (Approx)",
+      "popular": false,
+      "image": "default-place.png",
+      "isStayingLocation": true
+    },
+    {
+      "id": "shiroda",
+      "name": "Shiroda",
+      "latitude": 15.33,
+      "longitude": 74.04,
+      "type": "village",
+      "vibe": [
+        "spiritual"
+      ],
+      "popular": false,
+      "description": "Temple village",
+      "bestFor": [
+        "spiritual seekers"
+      ],
+      "nearbyAttractions": [
+        "Kamakshi Temple"
+      ],
+      "isStayingLocation": true
+    },
+    {
+      "id": "sinquerim",
+      "name": "Sinquerim",
+      "latitude": 15.4917,
+      "longitude": 73.7617,
+      "type": "beach",
+      "vibe": [
+        "upscale",
+        "water sports"
+      ],
+      "popular": true,
+      "description": "Beach with Fort Aguada",
+      "bestFor": [
+        "luxury travelers",
+        "history buffs"
+      ],
+      "nearbyAttractions": [
+        "Fort Aguada",
+        "Aguada Lighthouse"
+      ],
+      "isStayingLocation": true
+    },
+    {
+      "id": "siolim",
+      "name": "Siolim",
+      "latitude": 15.6,
+      "longitude": 73.7667,
+      "type": "village",
+      "vibe": [
+        "peaceful",
+        "artistic"
+      ],
+      "popular": false,
+      "description": "Charming village with heritage homes",
+      "bestFor": [
+        "culture enthusiasts",
+        "peace seekers"
+      ],
+      "nearbyAttractions": [
+        "Siolim Church",
+        "Chapora Fort"
+      ],
+      "isStayingLocation": true
+    },
+    {
+      "id": "siridao",
+      "name": "Siridao",
+      "latitude": 15.43,
+      "longitude": 73.87,
+      "type": "beach",
+      "vibe": [
+        "local"
+      ],
+      "popular": false,
+      "description": "Shell collector's beach",
+      "bestFor": [
+        "explorers"
+      ],
+      "nearbyAttractions": [
+        "Jesus of Nazareth Chapel"
+      ],
+      "isStayingLocation": false
+    },
+    {
+      "id": "talaulim",
+      "name": "Talaulim",
+      "latitude": 15.4688396,
+      "longitude": 73.8880992,
+      "type": "town",
+      "vibe": [
+        "local"
+      ],
+      "description": "Location in Goa",
+      "popular": false,
+      "image": "default-place.png",
+      "isStayingLocation": true
+    },
+    {
+      "id": "taleigao",
+      "name": "Taleigao",
+      "latitude": 15.47,
+      "longitude": 73.83,
+      "type": "town",
+      "vibe": [
+        "residential"
+      ],
+      "popular": false,
+      "description": "Upscale residential area",
+      "bestFor": [
+        "residents"
+      ],
+      "nearbyAttractions": [
+        "Taleigao Community Centre"
+      ],
+      "isStayingLocation": true
+    },
+    {
+      "id": "talpona",
+      "name": "Talpona",
+      "latitude": 14.99,
+      "longitude": 74.04,
+      "type": "beach",
+      "vibe": [
+        "secluded"
+      ],
+      "popular": false,
+      "description": "Quiet fishing beach",
+      "bestFor": [
+        "peace seekers"
+      ],
+      "nearbyAttractions": [
+        "Talpona River"
+      ],
+      "isStayingLocation": false
+    },
+    {
+      "id": "tambdi_surla",
+      "name": "Tambdi Surla",
+      "latitude": 15.44,
+      "longitude": 74.25,
+      "type": "historical",
+      "vibe": [
+        "historical",
+        "nature"
+      ],
+      "popular": true,
+      "description": "Oldest temple in Goa",
+      "bestFor": [
+        "history buffs"
+      ],
+      "nearbyAttractions": [
+        "Mahadev Temple"
+      ],
+      "isStayingLocation": true
+    },
+    {
+      "id": "thivim_station",
+      "name": "Thivim Railway Station",
+      "latitude": 15.5833,
+      "longitude": 73.8667,
+      "type": "railway_station",
+      "vibe": [
+        "transit"
+      ],
+      "popular": false,
+      "description": "Railway station in North Goa",
+      "bestFor": [
+        "arrivals"
+      ],
+      "nearbyAttractions": [
+        "Mapusa"
+      ],
+      "isStayingLocation": true
+    },
+    {
+      "id": "tivim",
+      "name": "Tivim",
+      "latitude": 15.6213808,
+      "longitude": 73.8542286,
+      "type": "town",
+      "vibe": [
+        "local"
+      ],
+      "description": "Location in Goa",
+      "popular": false,
+      "image": "default-place.png",
+      "isStayingLocation": true
+    },
+    {
+      "id": "uccasaim",
+      "name": "Uccasaim",
+      "latitude": 15.5887757,
+      "longitude": 73.8098728,
+      "type": "town",
+      "vibe": [
+        "local"
+      ],
+      "description": "Location in Goa",
+      "popular": false,
+      "image": "default-place.png",
+      "isStayingLocation": true
+    },
+    {
+      "id": "usgao",
+      "name": "Usgao",
+      "latitude": 15.43,
+      "longitude": 74.06,
+      "type": "village",
+      "vibe": [
+        "industrial"
+      ],
+      "popular": false,
+      "description": "Industrial village",
+      "bestFor": [
+        "business"
+      ],
+      "nearbyAttractions": [
+        "Bondla Zoo"
+      ],
+      "isStayingLocation": true
+    },
+    {
+      "id": "utorda",
+      "name": "Utorda",
+      "latitude": 15.32,
+      "longitude": 73.9,
+      "type": "beach",
+      "vibe": [
+        "peaceful",
+        "luxury"
+      ],
+      "popular": false,
+      "description": "Clean white sand beach",
+      "bestFor": [
+        "luxury travelers"
+      ],
+      "nearbyAttractions": [
+        "Kenilworth Resort"
+      ],
+      "isStayingLocation": true
+    },
+    {
+      "id": "vaddem",
+      "name": "Vaddem",
+      "latitude": 15.3995487,
+      "longitude": 73.8251853,
+      "type": "town",
+      "vibe": [
+        "local"
+      ],
+      "description": "Location in Goa",
+      "popular": false,
+      "image": "default-place.png",
+      "isStayingLocation": true
+    },
+    {
+      "id": "vagator",
+      "name": "Vagator",
+      "latitude": 15.5992,
+      "longitude": 73.7444,
+      "type": "beach",
+      "vibe": [
+        "party",
+        "scenic",
+        "hippie"
+      ],
+      "popular": true,
+      "description": "Dramatic cliffs and trance parties",
+      "bestFor": [
+        "party lovers",
+        "photographers"
+      ],
+      "nearbyAttractions": [
+        "Chapora Fort",
+        "Vagator Beach",
+        "Nine Bar"
+      ],
+      "isStayingLocation": true
+    },
+    {
+      "id": "vagator-beach",
+      "name": "Vagator Beach",
+      "latitude": 15.5976166,
+      "longitude": 73.733518,
+      "type": "town",
+      "vibe": [
+        "local"
+      ],
+      "description": "Location in Goa",
+      "popular": false,
+      "image": "default-place.png",
+      "isStayingLocation": true
+    },
+    {
+      "id": "vainguinim",
+      "name": "Vainguinim",
+      "latitude": 15.45,
+      "longitude": 73.81,
+      "type": "beach",
+      "vibe": [
+        "peaceful"
+      ],
+      "popular": false,
+      "description": "Beach near Dona Paula",
+      "bestFor": [
+        "families"
+      ],
+      "nearbyAttractions": [
+        "Cidade de Goa"
+      ],
+      "isStayingLocation": false
+    },
+    {
+      "id": "valpoi",
+      "name": "Valpoi",
+      "latitude": 15.53,
+      "longitude": 74.13,
+      "type": "town",
+      "vibe": [
+        "nature"
+      ],
+      "popular": false,
+      "description": "Gateway to Western Ghats",
+      "bestFor": [
+        "trekkers"
+      ],
+      "nearbyAttractions": [
+        "Mhadei Wildlife Sanctuary"
+      ],
+      "isStayingLocation": true
+    },
+    {
+      "id": "varca",
+      "name": "Varca",
+      "latitude": 15.2167,
+      "longitude": 73.9333,
+      "type": "beach",
+      "vibe": [
+        "peaceful",
+        "luxury"
+      ],
+      "popular": false,
+      "description": "Pristine beach with luxury resorts",
+      "bestFor": [
+        "luxury travelers",
+        "peace seekers"
+      ],
+      "nearbyAttractions": [
+        "Varca Beach"
+      ],
+      "isStayingLocation": true
+    },
+    {
+      "id": "vasco_station",
+      "name": "Vasco Railway Station",
+      "latitude": 15.3983,
+      "longitude": 73.8156,
+      "type": "railway_station",
+      "vibe": [
+        "transit"
+      ],
+      "popular": true,
+      "description": "Railway station near airport",
+      "bestFor": [
+        "arrivals"
+      ],
+      "nearbyAttractions": [
+        "Vasco da Gama City"
+      ],
+      "isStayingLocation": true
+    },
+    {
+      "id": "velsao",
+      "name": "Velsao",
+      "latitude": 15.35,
+      "longitude": 73.88,
+      "type": "beach",
+      "vibe": [
+        "peaceful"
+      ],
+      "popular": false,
+      "description": "Beach with silver sands",
+      "bestFor": [
+        "nature lovers"
+      ],
+      "nearbyAttractions": [
+        "Three Kings Church"
+      ],
+      "isStayingLocation": true
+    },
+    {
+      "id": "velsao-beach",
+      "name": "Velsao Beach",
+      "latitude": 15.354467,
+      "longitude": 73.8839713,
+      "type": "town",
+      "vibe": [
+        "local"
+      ],
+      "description": "Location in Goa",
+      "popular": false,
+      "image": "default-place.png",
+      "isStayingLocation": true
+    },
+    {
+      "id": "verna",
+      "name": "Verna",
+      "latitude": 15.36,
+      "longitude": 73.94,
+      "type": "industrial",
+      "vibe": [
+        "industrial"
+      ],
+      "popular": false,
+      "description": "Industrial hub of Goa",
+      "bestFor": [
+        "business"
+      ],
+      "nearbyAttractions": [
+        "Verna Industrial Estate"
+      ],
+      "isStayingLocation": true
+    },
+    {
+      "id": "xeldem",
+      "name": "Xeldem",
+      "latitude": 15.2452423,
+      "longitude": 74.0905288,
+      "type": "town",
+      "vibe": [
+        "local"
+      ],
+      "description": "Location in Goa",
+      "popular": false,
+      "image": "default-place.png",
+      "isStayingLocation": true
+    },
+    {
+      "id": "xelvona",
+      "name": "Xelvona",
+      "latitude": 15.4909,
+      "longitude": 73.8278,
+      "type": "town",
+      "vibe": [
+        "local"
+      ],
+      "description": "Location in Goa (Approx)",
+      "popular": false,
+      "image": "default-place.png",
+      "isStayingLocation": true
+    },
+    {
+      "id": "zambaulim",
+      "name": "Zambaulim",
+      "latitude": 15.1865533,
+      "longitude": 74.0956299,
+      "type": "town",
+      "vibe": [
+        "local"
+      ],
+      "description": "Location in Goa",
+      "popular": false,
+      "image": "default-place.png",
+      "isStayingLocation": true
+    },
+    {
+      "id": "zuari-nagar",
+      "name": "Zuari Nagar",
+      "latitude": 15.4909,
+      "longitude": 73.8278,
+      "type": "town",
+      "vibe": [
+        "local"
+      ],
+      "description": "Location in Goa (Approx)",
+      "popular": false,
+      "image": "default-place.png",
+      "isStayingLocation": true
+    }
+  ],
+  "popularLocations": [
+    "calangute",
+    "baga",
+    "candolim",
+    "anjuna",
+    "panaji",
+    "mapusa",
+    "vagator",
+    "arambol",
+    "palolem",
+    "colva",
+    "benaulim",
+    "morjim",
+    "agonda",
+    "sinquerim",
+    "arpora",
+    "assagao",
+    "siolim",
+    "ponda",
+    "old_goa",
+    "mandrem"
+  ],
+  "vibeCategories": {
+    "party": [
+      "anjuna",
+      "baga",
+      "vagator",
+      "arpora"
+    ],
+    "peaceful": [
+      "agonda",
+      "arambol",
+      "benaulim",
+      "cola_beach",
+      "patnem",
+      "mandrem"
+    ],
+    "family": [
+      "calangute",
+      "candolim",
+      "colva",
+      "benaulim",
+      "miramar"
+    ],
+    "romantic": [
+      "agonda",
+      "dona_paula",
+      "cola_beach",
+      "palolem"
+    ],
+    "adventure": [
+      "baga",
+      "calangute",
+      "sinquerim"
+    ],
+    "cultural": [
+      "old_goa",
+      "panaji",
+      "ponda",
+      "mapusa"
+    ],
+    "luxury": [
+      "candolim",
+      "sinquerim",
+      "mobor",
+      "varca"
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+    "appName": "Goa Nearby",
+    "logo": "logo.png",
+    "defaultLocation": {
+        "latitude": 15.4909,
+        "longitude": 73.8278,
+        "name": "Panaji, Goa"
+    },
+    "distanceUpdateInterval": 30000,
+    "maxDistance": 100,
+    "categories": [
+        "All",
+        "Beach",
+        "Historical",
+        "Nature",
+        "Religious",
+        "Shopping"
+    ],
+    "categoryIcons": {
+        "All": "🌟",
+        "Beach": "🏖️",
+        "Historical": "🏛️",
+        "Nature": "🌿",
+        "Religious": "⛪",
+        "Shopping": "🛍️",
+        "Adventure": "🎢",
+        "Food": "🍽️",
+        "Nightlife": "🌙",
+        "Culture": "🎭",
+        "Sports": "⚽"
+    },
+    "staticMenuItems": [
+        {
+            "id": "settings",
+            "label": "Settings",
+            "icon": "⚙️"
+        },
+        {
+            "id": "about",
+            "label": "About App",
+            "icon": "ℹ️"
+        },
+        {
+            "id": "privacy",
+            "label": "Privacy Policy",
+            "icon": "🔒"
+        }
+    ]
+}

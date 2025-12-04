@@ -1,0 +1,1676 @@
+[
+  {
+    "id": "agonda",
+    "name": "Agonda",
+    "latitude": 15.0411042,
+    "longitude": 73.9882421,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "anjuna",
+    "name": "Anjuna",
+    "latitude": 15.5850408,
+    "longitude": 73.7438151,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "arambol",
+    "name": "Arambol",
+    "latitude": 15.6878815,
+    "longitude": 73.7055986,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "arpora",
+    "name": "Arpora",
+    "latitude": 15.5630974,
+    "longitude": 73.7640368,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "assagao",
+    "name": "Assagao",
+    "latitude": 15.5981002,
+    "longitude": 73.7721529,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "baga",
+    "name": "Baga",
+    "latitude": 15.5592836,
+    "longitude": 73.7539656,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "benaulim",
+    "name": "Benaulim",
+    "latitude": 15.2601367,
+    "longitude": 73.9275675,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "betim",
+    "name": "Betim",
+    "latitude": 15.5062971,
+    "longitude": 73.8283433,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "cabo-de-rama",
+    "name": "Cabo De Rama",
+    "latitude": 15.0886314,
+    "longitude": 73.9216425,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "calangute",
+    "name": "Calangute",
+    "latitude": 15.545594,
+    "longitude": 73.7646182,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "canacona",
+    "name": "Canacona",
+    "latitude": 15.0068417,
+    "longitude": 74.0394887,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "candolim",
+    "name": "Candolim",
+    "latitude": 15.5201532,
+    "longitude": 73.7659422,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "caranzalem",
+    "name": "Caranzalem",
+    "latitude": 15.4677228,
+    "longitude": 73.8079977,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "cola-beach",
+    "name": "Cola Beach",
+    "latitude": 15.0592525,
+    "longitude": 73.9701511,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "colva",
+    "name": "Colva",
+    "latitude": 15.278266,
+    "longitude": 73.9197099,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "dabolim-airport",
+    "name": "Dabolim Airport",
+    "latitude": 15.3805015,
+    "longitude": 73.8317013,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "dona-paula",
+    "name": "Dona Paula",
+    "latitude": 15.4505271,
+    "longitude": 73.8030641,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "karmali-railway-station",
+    "name": "Karmali Railway Station",
+    "latitude": 15.4904538,
+    "longitude": 73.9245522,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "madgaon-railway-station",
+    "name": "Madgaon Railway Station",
+    "latitude": 15.2673236,
+    "longitude": 73.9703487,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "majorda",
+    "name": "Majorda",
+    "latitude": 15.3132484,
+    "longitude": 73.9103868,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "mapusa",
+    "name": "Mapusa",
+    "latitude": 15.590853,
+    "longitude": 73.8102146,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "miramar",
+    "name": "Miramar",
+    "latitude": 15.4827569,
+    "longitude": 73.8093495,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "mobor",
+    "name": "Mobor",
+    "latitude": 15.1527188,
+    "longitude": 73.9503968,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "mopa-airport",
+    "name": "Mopa Airport",
+    "latitude": 15.7329414,
+    "longitude": 73.8722244,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "morjim",
+    "name": "Morjim",
+    "latitude": 15.6294635,
+    "longitude": 73.7358315,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "navelim",
+    "name": "Navelim",
+    "latitude": 15.2565946,
+    "longitude": 73.9664212,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "nerul",
+    "name": "Nerul",
+    "latitude": 15.5093392,
+    "longitude": 73.7846696,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "old-goa",
+    "name": "Old Goa",
+    "latitude": 15.5023329,
+    "longitude": 73.9117432,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "panaji",
+    "name": "Panaji",
+    "latitude": 15.4989946,
+    "longitude": 73.8282141,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "parra",
+    "name": "Parra",
+    "latitude": 15.573657,
+    "longitude": 73.7931724,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "patnem",
+    "name": "Patnem",
+    "latitude": 14.9985872,
+    "longitude": 74.0362727,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "pernem",
+    "name": "Pernem",
+    "latitude": 15.7089964,
+    "longitude": 73.8167602,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "ponda",
+    "name": "Ponda",
+    "latitude": 15.3979351,
+    "longitude": 74.0079788,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "porvorim",
+    "name": "Porvorim",
+    "latitude": 15.5251795,
+    "longitude": 73.8282988,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "sinquerim",
+    "name": "Sinquerim",
+    "latitude": 15.4999597,
+    "longitude": 73.7709793,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "siolim",
+    "name": "Siolim",
+    "latitude": 15.6270222,
+    "longitude": 73.7656851,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "thivim-railway-station",
+    "name": "Thivim Railway Station",
+    "latitude": 15.6294585,
+    "longitude": 73.8770088,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "vagator",
+    "name": "Vagator",
+    "latitude": 15.5985735,
+    "longitude": 73.7408126,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "varca",
+    "name": "Varca",
+    "latitude": 15.2314189,
+    "longitude": 73.9432651,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "vasco-railway-station",
+    "name": "Vasco Railway Station",
+    "latitude": 15.3953351,
+    "longitude": 73.8087724,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "chapora",
+    "name": "Chapora",
+    "latitude": 15.603123,
+    "longitude": 73.7419044,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "mandrem",
+    "name": "Mandrem",
+    "latitude": 15.6551117,
+    "longitude": 73.7197877,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "saligao",
+    "name": "Saligao",
+    "latitude": 15.5462074,
+    "longitude": 73.7891386,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "assanora",
+    "name": "Assanora",
+    "latitude": 15.5890737,
+    "longitude": 73.810298,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "aldona",
+    "name": "Aldona",
+    "latitude": 15.5896313,
+    "longitude": 73.8710503,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "amona",
+    "name": "Amona",
+    "latitude": 15.5354085,
+    "longitude": 73.9838381,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "agassaim",
+    "name": "Agassaim",
+    "latitude": 15.4262941,
+    "longitude": 73.8986126,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "bicholim",
+    "name": "Bicholim",
+    "latitude": 15.5557695,
+    "longitude": 73.977291,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "britona",
+    "name": "Britona",
+    "latitude": 15.5205288,
+    "longitude": 73.8475227,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "banastarim",
+    "name": "Banastarim",
+    "latitude": 15.4921178,
+    "longitude": 73.9578306,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "bambolim",
+    "name": "Bambolim",
+    "latitude": 15.4549212,
+    "longitude": 73.8464479,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "betul",
+    "name": "Betul",
+    "latitude": 15.1472532,
+    "longitude": 73.9563266,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "bethora",
+    "name": "Bethora",
+    "latitude": 15.4909,
+    "longitude": 73.8278,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa (Approx)",
+    "popular": false,
+    "notFound": true
+  },
+  {
+    "id": "balli",
+    "name": "Balli",
+    "latitude": 15.151774,
+    "longitude": 74.0211809,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "bhoma",
+    "name": "Bhoma",
+    "latitude": 15.4740716,
+    "longitude": 73.9632224,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "colvale",
+    "name": "Colvale",
+    "latitude": 15.6444652,
+    "longitude": 73.836751,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "chodan",
+    "name": "Chodan",
+    "latitude": 15.4909,
+    "longitude": 73.8278,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa (Approx)",
+    "popular": false,
+    "notFound": true
+  },
+  {
+    "id": "chicalim",
+    "name": "Chicalim",
+    "latitude": 15.3918926,
+    "longitude": 73.8344664,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "cortalim",
+    "name": "Cortalim",
+    "latitude": 15.3969664,
+    "longitude": 73.916837,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "cuncolim",
+    "name": "Cuncolim",
+    "latitude": 15.1801323,
+    "longitude": 73.9978596,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "curca",
+    "name": "Curca",
+    "latitude": 15.4608194,
+    "longitude": 73.8778694,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "cavelossim",
+    "name": "Cavelossim",
+    "latitude": 15.1845618,
+    "longitude": 73.9456314,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "divar-island",
+    "name": "Divar Island",
+    "latitude": 15.5250877,
+    "longitude": 73.9078163,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "dharbandora",
+    "name": "Dharbandora",
+    "latitude": 15.3883514,
+    "longitude": 74.1837204,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "farmagudi",
+    "name": "Farmagudi",
+    "latitude": 15.4117952,
+    "longitude": 73.9899158,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "fatorda",
+    "name": "Fatorda",
+    "latitude": 15.2981753,
+    "longitude": 73.9715379,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "goa-velha",
+    "name": "Goa Velha",
+    "latitude": 15.5023329,
+    "longitude": 73.9117432,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "harvalem",
+    "name": "Harvalem",
+    "latitude": 15.5651503,
+    "longitude": 74.0462153,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "kundaim",
+    "name": "Kundaim",
+    "latitude": 15.460227,
+    "longitude": 73.96912,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "keri",
+    "name": "Keri",
+    "latitude": 15.6094079,
+    "longitude": 74.065007,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "khandepar",
+    "name": "Khandepar",
+    "latitude": 15.4244754,
+    "longitude": 74.0450191,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "molem",
+    "name": "Molem",
+    "latitude": 15.4909,
+    "longitude": 73.8278,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa (Approx)",
+    "popular": false,
+    "notFound": true
+  },
+  {
+    "id": "mardol",
+    "name": "Mardol",
+    "latitude": 15.4414884,
+    "longitude": 73.9735674,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "netravali",
+    "name": "Netravali",
+    "latitude": 15.0912158,
+    "longitude": 74.217099,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "poinguinim",
+    "name": "Poinguinim",
+    "latitude": 14.967549,
+    "longitude": 74.0866348,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "querim",
+    "name": "Querim",
+    "latitude": 15.7139875,
+    "longitude": 73.7032961,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "reis-magos",
+    "name": "Reis Magos",
+    "latitude": 15.4966011,
+    "longitude": 73.8095534,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "sanquelim",
+    "name": "Sanquelim",
+    "latitude": 15.5626483,
+    "longitude": 74.0114543,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "tivim",
+    "name": "Tivim",
+    "latitude": 15.6213808,
+    "longitude": 73.8542286,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "valpoi",
+    "name": "Valpoi",
+    "latitude": 15.531466,
+    "longitude": 74.1372751,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "xeldem",
+    "name": "Xeldem",
+    "latitude": 15.2452423,
+    "longitude": 74.0905288,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "sancoale",
+    "name": "Sancoale",
+    "latitude": 15.3886307,
+    "longitude": 73.8893336,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "savoi-verem",
+    "name": "Savoi Verem",
+    "latitude": 15.4808394,
+    "longitude": 74.0195808,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "shiroda",
+    "name": "Shiroda",
+    "latitude": 15.3204056,
+    "longitude": 74.0294384,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "sanguem",
+    "name": "Sanguem",
+    "latitude": 15.2282657,
+    "longitude": 74.1512667,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "tambdi-surla",
+    "name": "Tambdi Surla",
+    "latitude": 15.4434252,
+    "longitude": 74.2454029,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "usgao",
+    "name": "Usgao",
+    "latitude": 15.4435253,
+    "longitude": 74.0644276,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "verna",
+    "name": "Verna",
+    "latitude": 15.3510255,
+    "longitude": 73.9303722,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "zuari-nagar",
+    "name": "Zuari Nagar",
+    "latitude": 15.4909,
+    "longitude": 73.8278,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa (Approx)",
+    "popular": false,
+    "notFound": true
+  },
+  {
+    "id": "aquem",
+    "name": "Aquem",
+    "latitude": 15.2722287,
+    "longitude": 73.9700286,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "bambolim-beach",
+    "name": "Bambolim Beach",
+    "latitude": 15.4498478,
+    "longitude": 73.8518604,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "batim",
+    "name": "Batim",
+    "latitude": 15.4470162,
+    "longitude": 73.8834983,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "cansaulim",
+    "name": "Cansaulim",
+    "latitude": 15.3449171,
+    "longitude": 73.8975655,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "chinchinim",
+    "name": "Chinchinim",
+    "latitude": 15.2113807,
+    "longitude": 73.9772002,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "collem",
+    "name": "Collem",
+    "latitude": 15.3371373,
+    "longitude": 74.2427454,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "davorlim",
+    "name": "Davorlim",
+    "latitude": 15.4909,
+    "longitude": 73.8278,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa (Approx)",
+    "popular": false,
+    "notFound": true
+  },
+  {
+    "id": "gudi-paroda",
+    "name": "Gudi Paroda",
+    "latitude": 15.4909,
+    "longitude": 73.8278,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa (Approx)",
+    "popular": false,
+    "notFound": true
+  },
+  {
+    "id": "loutolim",
+    "name": "Loutolim",
+    "latitude": 15.3400173,
+    "longitude": 73.9860024,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "macazana",
+    "name": "Macazana",
+    "latitude": 15.4909,
+    "longitude": 73.8278,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa (Approx)",
+    "popular": false,
+    "notFound": true
+  },
+  {
+    "id": "orlim",
+    "name": "Orlim",
+    "latitude": 15.2113931,
+    "longitude": 73.9370708,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "paroda",
+    "name": "Paroda",
+    "latitude": 15.2384805,
+    "longitude": 74.0239949,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "quepem",
+    "name": "Quepem",
+    "latitude": 15.2142541,
+    "longitude": 74.0707793,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "raia",
+    "name": "Raia",
+    "latitude": 15.31364,
+    "longitude": 73.9840684,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "seraulim",
+    "name": "Seraulim",
+    "latitude": 15.4909,
+    "longitude": 73.8278,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa (Approx)",
+    "popular": false,
+    "notFound": true
+  },
+  {
+    "id": "talaulim",
+    "name": "Talaulim",
+    "latitude": 15.4688396,
+    "longitude": 73.8880992,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "utorda",
+    "name": "Utorda",
+    "latitude": 15.3243076,
+    "longitude": 73.9097235,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "vaddem",
+    "name": "Vaddem",
+    "latitude": 15.3995487,
+    "longitude": 73.8251853,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "velsao",
+    "name": "Velsao",
+    "latitude": 15.354467,
+    "longitude": 73.8839713,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "aquem-alto",
+    "name": "Aquem Alto",
+    "latitude": 15.2757864,
+    "longitude": 73.973283,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "benaulim-beach",
+    "name": "Benaulim Beach",
+    "latitude": 15.25303,
+    "longitude": 73.9201954,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "cortalim-junction",
+    "name": "Cortalim Junction",
+    "latitude": 15.4909,
+    "longitude": 73.8278,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa (Approx)",
+    "popular": false,
+    "notFound": true
+  },
+  {
+    "id": "dabolim-city",
+    "name": "Dabolim City",
+    "latitude": 15.4909,
+    "longitude": 73.8278,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa (Approx)",
+    "popular": false,
+    "notFound": true
+  },
+  {
+    "id": "gogol",
+    "name": "Gogol",
+    "latitude": 15.285712,
+    "longitude": 73.978116,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "korgao",
+    "name": "Korgao",
+    "latitude": 15.7097724,
+    "longitude": 73.7516419,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "mallim",
+    "name": "Mallim",
+    "latitude": 15.4909,
+    "longitude": 73.8278,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa (Approx)",
+    "popular": false,
+    "notFound": true
+  },
+  {
+    "id": "nuvem",
+    "name": "Nuvem",
+    "latitude": 15.308184,
+    "longitude": 73.9480748,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "odxel",
+    "name": "Odxel",
+    "latitude": 15.4535402,
+    "longitude": 73.8306272,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "pale",
+    "name": "Pale",
+    "latitude": 15.5930257,
+    "longitude": 74.1380299,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "quitol",
+    "name": "Quitol",
+    "latitude": 15.1336516,
+    "longitude": 73.9627504,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "rivona",
+    "name": "Rivona",
+    "latitude": 15.163175,
+    "longitude": 74.110743,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "sao-jose-de-areal",
+    "name": "Sao Jose de Areal",
+    "latitude": 15.4909,
+    "longitude": 73.8278,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa (Approx)",
+    "popular": false,
+    "notFound": true
+  },
+  {
+    "id": "taleigao",
+    "name": "Taleigao",
+    "latitude": 15.4702665,
+    "longitude": 73.8225674,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "uccasaim",
+    "name": "Uccasaim",
+    "latitude": 15.5887757,
+    "longitude": 73.8098728,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "vagator-beach",
+    "name": "Vagator Beach",
+    "latitude": 15.5976166,
+    "longitude": 73.733518,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "xelvona",
+    "name": "Xelvona",
+    "latitude": 15.4909,
+    "longitude": 73.8278,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa (Approx)",
+    "popular": false,
+    "notFound": true
+  },
+  {
+    "id": "zambaulim",
+    "name": "Zambaulim",
+    "latitude": 15.1865533,
+    "longitude": 74.0956299,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "amona-beach",
+    "name": "Amona Beach",
+    "latitude": 15.4909,
+    "longitude": 73.8278,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa (Approx)",
+    "popular": false,
+    "notFound": true
+  },
+  {
+    "id": "betalbatim",
+    "name": "Betalbatim",
+    "latitude": 15.300881,
+    "longitude": 73.9203,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "colmorod",
+    "name": "Colmorod",
+    "latitude": 15.4909,
+    "longitude": 73.8278,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa (Approx)",
+    "popular": false,
+    "notFound": true
+  },
+  {
+    "id": "dudhsagar",
+    "name": "Dudhsagar",
+    "latitude": 15.3165303,
+    "longitude": 74.3063621,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "ganjem",
+    "name": "Ganjem",
+    "latitude": 15.4658409,
+    "longitude": 74.0875053,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "keri-beach",
+    "name": "Keri Beach",
+    "latitude": 15.4909,
+    "longitude": 73.8278,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa (Approx)",
+    "popular": false,
+    "notFound": true
+  },
+  {
+    "id": "mollem",
+    "name": "Mollem",
+    "latitude": 15.3750107,
+    "longitude": 74.2268533,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "nanora",
+    "name": "Nanora",
+    "latitude": 15.4909,
+    "longitude": 73.8278,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa (Approx)",
+    "popular": false,
+    "notFound": true
+  },
+  {
+    "id": "olaulim",
+    "name": "Olaulim",
+    "latitude": 15.5701583,
+    "longitude": 73.8691666,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "pilerne",
+    "name": "Pilerne",
+    "latitude": 15.5190971,
+    "longitude": 73.8023543,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  },
+  {
+    "id": "sancoale-beach",
+    "name": "Sancoale Beach",
+    "latitude": 15.4909,
+    "longitude": 73.8278,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa (Approx)",
+    "popular": false,
+    "notFound": true
+  },
+  {
+    "id": "velsao-beach",
+    "name": "Velsao Beach",
+    "latitude": 15.354467,
+    "longitude": 73.8839713,
+    "type": "town",
+    "vibe": [
+      "local"
+    ],
+    "description": "Location in Goa",
+    "popular": false
+  }
+]

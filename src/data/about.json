@@ -1,0 +1,15 @@
+{
+    "appName": "Goa Nearby",
+    "version": "1.0.0",
+    "description": "Discover amazing places near you in Goa with real-time distance tracking and detailed information.",
+    "features": [
+        "Real-time location tracking",
+        "Accurate distance calculation",
+        "Detailed place information",
+        "Category-based filtering",
+        "Interactive maps",
+        "Offline-capable"
+    ],
+    "developer": "Goa Nearby Team",
+    "contact": "support@goanearby.com"
+}

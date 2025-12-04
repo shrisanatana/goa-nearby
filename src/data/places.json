@@ -1,0 +1,1202 @@
+[
+    {
+        "id": 1,
+        "name": "Baga Beach",
+        "category": "Beach",
+        "description": "Popular beach known for water sports and nightlife",
+        "fullDescription": "Baga Beach is one of the most popular beaches in North Goa, known for its vibrant nightlife, water sports activities, and beachside shacks. The beach stretches along the Arabian Sea and offers a perfect blend of relaxation and adventure. During the day, you can enjoy parasailing, jet skiing, and banana boat rides. As the sun sets, the beach transforms into a party hub with live music, beach parties, and delicious seafood. The beach is lined with numerous shacks serving fresh Goan cuisine, seafood, and refreshing drinks. It's a must-visit destination for both adventure seekers and party lovers.",
+        "latitude": 15.5559,
+        "longitude": 73.7516,
+        "address": "Baga Beach Road, Calangute, North Goa, Goa 403516",
+        "phone": "+91 832 227 8888",
+        "website": "https://www.goatourism.gov.in",
+        "image": "baga-beach.jpg",
+        "images": [
+            "baga-beach.jpg",
+            "baga-beach-2.jpg",
+            "baga-beach-3.jpg"
+        ],
+        "rating": 4.5,
+        "tags": [
+            "beach",
+            "water sports",
+            "nightlife"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Fort Aguada",
+        "category": "Historical",
+        "description": "17th-century Portuguese fort with stunning ocean views",
+        "fullDescription": "Fort Aguada is a well-preserved 17th-century Portuguese fort standing on the Sinquerim Beach, overlooking the Arabian Sea. Built in 1612, this magnificent structure was constructed to defend against the Dutch and Marathas. The fort is famous for its lighthouse, which is one of the oldest in Asia. The fort complex includes a freshwater spring, which was crucial for Portuguese ships stopping here. The panoramic views from the fort are breathtaking, making it a popular spot for photography and sunset viewing. The fort's strategic location and architectural brilliance make it a significant historical landmark in Goa.",
+        "latitude": 15.4909,
+        "longitude": 73.7732,
+        "address": "Candolim, Bardez, North Goa, Goa 403515",
+        "phone": "+91 832 228 5664",
+        "website": "https://www.goatourism.gov.in",
+        "image": "fort-aguada.jpg",
+        "images": [
+            "fort-aguada.jpg",
+            "fort-aguada-2.jpg",
+            "fort-aguada-3.jpg"
+        ],
+        "rating": 4.7,
+        "tags": [
+            "historical",
+            "fort",
+            "viewpoint"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Dudhsagar Waterfalls",
+        "category": "Nature",
+        "description": "Majestic four-tiered waterfall in the Western Ghats",
+        "fullDescription": "Dudhsagar Falls is one of India's tallest waterfalls, cascading from a height of 310 meters in four tiers. Located on the Mandovi River in the Western Ghats, the name 'Dudhsagar' literally means 'Sea of Milk' in Konkani, referring to its milky white appearance during the monsoon season. The waterfall is surrounded by lush green forests and rich biodiversity, making it a paradise for nature lovers and trekkers. The journey to the falls itself is an adventure, either by trekking through dense forests or by jeep safari. The best time to visit is during or just after the monsoon when the waterfall is in full flow. Swimming in the natural pool at the base is a refreshing experience.",
+        "latitude": 15.3144,
+        "longitude": 74.3144,
+        "address": "Mollem National Park, Collem, South Goa, Goa 403410",
+        "phone": "+91 832 261 2326",
+        "website": "https://www.goaforestdept.gov.in",
+        "image": "dudhsagar-falls.jpg",
+        "images": [
+            "dudhsagar-falls.jpg",
+            "dudhsagar-falls-2.jpg",
+            "dudhsagar-falls-3.jpg"
+        ],
+        "rating": 4.8,
+        "tags": [
+            "waterfall",
+            "nature",
+            "trekking"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Basilica of Bom Jesus",
+        "category": "Religious",
+        "description": "UNESCO World Heritage Site housing St. Francis Xavier's remains",
+        "fullDescription": "The Basilica of Bom Jesus is a UNESCO World Heritage Site and one of the oldest churches in Goa, built in 1605. This magnificent baroque-style church holds the mortal remains of St. Francis Xavier, a close associate of St. Ignatius Loyola and a founding member of the Society of Jesus (Jesuits). The church's architecture is a fine example of baroque art, with its ornate interiors, gilded altars, and intricate carvings. The body of St. Francis Xavier is kept in a silver casket in a well-decorated chapel. The basilica is not only a place of worship but also a significant historical monument that attracts thousands of pilgrims and tourists from around the world.",
+        "latitude": 15.5008,
+        "longitude": 73.9114,
+        "address": "Old Goa Road, Bainguinim, Goa 403402",
+        "phone": "+91 832 228 5790",
+        "website": "https://www.bomjesus.org",
+        "image": "bom-jesus.jpg",
+        "images": [
+            "bom-jesus.jpg",
+            "bom-jesus-2.jpg",
+            "bom-jesus-3.jpg"
+        ],
+        "rating": 4.6,
+        "tags": [
+            "church",
+            "heritage",
+            "religious"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Anjuna Flea Market",
+        "category": "Shopping",
+        "description": "Vibrant weekly market with handicrafts, clothes, and food",
+        "fullDescription": "The Anjuna Flea Market is a vibrant weekly market held every Wednesday, famous for its eclectic mix of goods from all over India and beyond. Started in the 1960s by hippies, this market has evolved into a major tourist attraction. You can find everything from traditional Indian handicrafts, jewelry, clothes, and accessories to Tibetan artifacts, electronic goods, and souvenirs. The market is also a great place to sample local Goan food, fresh fruits, and international cuisines. Live music performances and the bohemian atmosphere make shopping here a unique experience. Bargaining is expected and part of the fun. It's a perfect place to pick up unique gifts and immerse yourself in Goa's alternative culture.",
+        "latitude": 15.5739,
+        "longitude": 73.7402,
+        "address": "Anjuna Beach Road, Anjuna, North Goa, Goa 403509",
+        "phone": "+91 832 227 4369",
+        "website": "",
+        "image": "anjuna-market.jpg",
+        "images": [
+            "anjuna-market.jpg",
+            "anjuna-market-2.jpg",
+            "anjuna-market-3.jpg"
+        ],
+        "rating": 4.3,
+        "tags": [
+            "shopping",
+            "market",
+            "handicrafts"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Calangute Beach",
+        "category": "Beach",
+        "description": "The Queen of Beaches - largest and most popular beach in Goa",
+        "fullDescription": "Calangute Beach, often referred to as the 'Queen of Beaches', is the largest and one of the most popular beaches in North Goa. Stretching over 7 kilometers, this beach offers a perfect blend of sun, sand, and sea. It's ideal for swimming, sunbathing, and various water sports including parasailing, water skiing, and surfing. The beach is lined with numerous shacks, restaurants, and bars serving delicious seafood and refreshing drinks. The vibrant atmosphere, combined with beautiful sunsets and a wide range of activities, makes it a favorite among both domestic and international tourists. The beach also has several shops selling beachwear, souvenirs, and local handicrafts.",
+        "latitude": 15.5435,
+        "longitude": 73.7554,
+        "address": "Calangute Beach Road, Calangute, North Goa, Goa 403516",
+        "phone": "+91 832 227 9024",
+        "website": "https://www.goatourism.gov.in",
+        "image": "calangute-beach.jpg",
+        "images": [
+            "calangute-beach.jpg",
+            "calangute-beach-2.jpg",
+            "calangute-beach-3.jpg"
+        ],
+        "rating": 4.4,
+        "tags": [
+            "beach",
+            "swimming",
+            "family-friendly"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Chapora Fort",
+        "category": "Historical",
+        "description": "Iconic fort offering panoramic views, famous from Bollywood movies",
+        "fullDescription": "Chapora Fort is a historic Portuguese fort located in North Goa, famous for its appearance in the Bollywood movie 'Dil Chahta Hai'. Built in 1717, the fort stands on a hilltop overlooking the Chapora River and offers breathtaking panoramic views of Vagator Beach and the Arabian Sea. Although now in ruins, the fort's strategic location and remnants of its bastions and walls tell stories of its glorious past. The fort is a popular spot for photography, especially during sunrise and sunset. The trek to the fort is relatively easy and the views from the top are absolutely worth it. It's a perfect blend of history, nature, and stunning vistas.",
+        "latitude": 15.6005,
+        "longitude": 73.7364,
+        "address": "Chapora, Bardez, North Goa, Goa 403509",
+        "phone": "",
+        "website": "https://www.goatourism.gov.in",
+        "image": "chapora-fort.jpg",
+        "images": [
+            "chapora-fort.jpg",
+            "chapora-fort-2.jpg",
+            "chapora-fort-3.jpg"
+        ],
+        "rating": 4.5,
+        "tags": [
+            "fort",
+            "viewpoint",
+            "photography"
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Palolem Beach",
+        "category": "Beach",
+        "description": "Crescent-shaped beach with calm waters and beach huts",
+        "fullDescription": "Palolem Beach is a crescent-shaped paradise in South Goa, known for its calm waters, white sand, and laid-back atmosphere. Unlike the more crowded beaches in North Goa, Palolem offers a peaceful retreat perfect for relaxation and rejuvenation. The beach is lined with colorful beach huts and shacks offering accommodation and delicious food. The calm waters make it ideal for swimming and kayaking. You can also take a boat trip to spot dolphins or explore the nearby Butterfly Beach and Honeymoon Beach. The beach comes alive in the evening with silent disco parties where you can dance under the stars with wireless headphones. It's a perfect destination for those seeking tranquility and natural beauty.",
+        "latitude": 15.0100,
+        "longitude": 74.0232,
+        "address": "Palolem Beach Road, Canacona, South Goa, Goa 403702",
+        "phone": "+91 832 264 3512",
+        "website": "https://www.goatourism.gov.in",
+        "image": "palolem-beach.jpg",
+        "images": [
+            "palolem-beach.jpg",
+            "palolem-beach-2.jpg",
+            "palolem-beach-3.jpg"
+        ],
+        "rating": 4.7,
+        "tags": [
+            "beach",
+            "peaceful",
+            "scenic"
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Spice Plantation Tour",
+        "category": "Nature",
+        "description": "Experience authentic Goan spice farms with guided tours",
+        "fullDescription": "A visit to a Goan spice plantation is a unique and educational experience that takes you through lush green farms growing a variety of spices, herbs, and tropical fruits. Guided tours explain the cultivation and uses of spices like cardamom, pepper, cinnamon, nutmeg, and vanilla. You'll learn about traditional farming methods and the medicinal properties of various plants. Most plantations offer a traditional Goan lunch served on banana leaves, featuring authentic local cuisine. Some plantations also include elephant bathing experiences, traditional dance performances, and opportunities to purchase fresh spices and products. The tour is a perfect blend of nature, culture, and gastronomy, offering insights into Goa's agricultural heritage.",
+        "latitude": 15.3173,
+        "longitude": 74.1240,
+        "address": "Ponda, North Goa, Goa 403401",
+        "phone": "+91 832 231 2394",
+        "website": "https://www.goaspiceplantation.com",
+        "image": "spice-plantation.jpg",
+        "images": [
+            "spice-plantation.jpg",
+            "spice-plantation-2.jpg",
+            "spice-plantation-3.jpg"
+        ],
+        "rating": 4.4,
+        "tags": [
+            "nature",
+            "tour",
+            "cultural"
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Saturday Night Market",
+        "category": "Shopping",
+        "description": "Lively night market at Arpora with food, music, and shopping",
+        "fullDescription": "The Saturday Night Market at Arpora is a vibrant and colorful weekly event that combines shopping, entertainment, and dining in a festive atmosphere. Open every Saturday evening during the tourist season, this market features hundreds of stalls selling everything from clothes, accessories, and handicrafts to home decor and souvenirs. The market is known for its live music performances, cultural shows, and energetic ambiance. Food lovers will enjoy the diverse culinary offerings, including Goan, Indian, Chinese, Italian, and other international cuisines. There are also bars and lounges where you can relax with a drink. The market's carnival-like atmosphere, with colorful lights and music, makes it a popular nighttime destination for both tourists and locals.",
+        "latitude": 15.5650,
+        "longitude": 73.7620,
+        "address": "Arpora, Bardez, North Goa, Goa 403518",
+        "phone": "+91 832 227 6234",
+        "website": "https://www.saturdaynightmarket.com",
+        "image": "saturday-market.jpg",
+        "images": [
+            "saturday-market.jpg",
+            "saturday-market-2.jpg",
+            "saturday-market-3.jpg"
+        ],
+        "rating": 4.5,
+        "tags": [
+            "market",
+            "nightlife",
+            "entertainment"
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Vagator Beach",
+        "category": "Beach",
+        "description": "Dramatic red cliffs and stunning sunset views",
+        "fullDescription": "Vagator Beach is known for its dramatic red cliffs, black lava rocks, and stunning sunset views. Divided into Big Vagator and Little Vagator (Ozran Beach), this beach offers a more relaxed and bohemian vibe compared to other North Goa beaches. The red laterite cliffs provide a unique backdrop and are perfect for photography. The beach is popular among backpackers and long-term travelers, with several beach shacks offering affordable food and drinks. The sunset views from the cliffs are spectacular, making it a favorite spot for evening gatherings. Vagator is also famous for its trance parties and electronic music scene. The nearby Chapora Fort adds to the area's charm and offers panoramic views of the coastline.",
+        "latitude": 15.5994,
+        "longitude": 73.7344,
+        "address": "Vagator Beach Road, Vagator, North Goa, Goa 403509",
+        "phone": "+91 832 227 3845",
+        "website": "https://www.goatourism.gov.in",
+        "image": "vagator-beach.jpg",
+        "images": [
+            "vagator-beach.jpg",
+            "vagator-beach-2.jpg",
+            "vagator-beach-3.jpg"
+        ],
+        "rating": 4.6,
+        "tags": [
+            "beach",
+            "sunset",
+            "cliffs"
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Se Cathedral",
+        "category": "Religious",
+        "description": "One of Asia's largest churches with Portuguese-Gothic architecture",
+        "fullDescription": "Se Cathedral, also known as the Cathedral of Santa Catarina, is one of the largest churches in Asia and a magnificent example of Portuguese-Gothic architecture. Built between 1562 and 1619, this grand cathedral is dedicated to St. Catherine of Alexandria. The church features a stunning facade with intricate carvings, a massive interior with ornate altars, and beautiful paintings depicting the life of St. Catherine. The cathedral is famous for its 'Golden Bell', one of the largest in Goa, known for its rich tone. The church's grandeur and historical significance make it a must-visit for anyone interested in colonial architecture and religious heritage. It's part of the UNESCO World Heritage Site of Old Goa.",
+        "latitude": 15.5006,
+        "longitude": 73.9117,
+        "address": "Old Goa Road, Bainguinim, Goa 403402",
+        "phone": "+91 832 228 5678",
+        "website": "https://www.goatourism.gov.in",
+        "image": "se-cathedral.jpg",
+        "images": [
+            "se-cathedral.jpg",
+            "se-cathedral-2.jpg",
+            "se-cathedral-3.jpg"
+        ],
+        "rating": 4.6,
+        "tags": [
+            "church",
+            "architecture",
+            "heritage"
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Arambol Beach",
+        "category": "Beach",
+        "description": "Hippie paradise with sweet water lake and paragliding",
+        "fullDescription": "Arambol Beach is a beautiful crescent-shaped beach in North Goa known for its bohemian vibe and alternative lifestyle community. The beach features a unique sweet water lake just behind it, where visitors can enjoy a freshwater bath after swimming in the sea. Arambol is famous for paragliding, drum circles, yoga retreats, and holistic healing centers. The beach has a vibrant hippie culture with numerous stalls selling handmade crafts, jewelry, and clothing. The evening drum sessions on the beach create a magical atmosphere. It's a perfect destination for those seeking a more authentic and less commercialized Goan experience.",
+        "latitude": 15.6864,
+        "longitude": 73.7042,
+        "address": "Arambol Beach Road, Pernem, North Goa, Goa 403524",
+        "phone": "+91 832 223 5678",
+        "website": "https://www.goatourism.gov.in",
+        "image": "arambol-beach.jpg",
+        "images": [
+            "arambol-beach.jpg",
+            "arambol-beach-2.jpg",
+            "arambol-beach-3.jpg"
+        ],
+        "rating": 4.4,
+        "tags": [
+            "beach",
+            "hippie",
+            "paragliding"
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Reis Magos Fort",
+        "category": "Historical",
+        "description": "16th-century fort with heritage museum and river views",
+        "fullDescription": "Reis Magos Fort is a 16th-century Portuguese fort located on the northern bank of the Mandovi River. Unlike other forts in Goa, Reis Magos has been beautifully restored and now houses a cultural heritage museum. The fort offers stunning views of the Mandovi River and Panaji city. The museum showcases the history of the fort and the region through artifacts, photographs, and exhibits. The fort's strategic location made it an important defensive structure during Portuguese rule. The nearby Reis Magos Church adds to the historical significance of the area.",
+        "latitude": 15.4950,
+        "longitude": 73.8097,
+        "address": "Reis Magos, Bardez, North Goa, Goa 403101",
+        "phone": "+91 832 290 4629",
+        "website": "https://www.reis-magos-fort.com",
+        "image": "reis-magos-fort.jpg",
+        "images": [
+            "reis-magos-fort.jpg",
+            "reis-magos-fort-2.jpg",
+            "reis-magos-fort-3.jpg"
+        ],
+        "rating": 4.3,
+        "tags": [
+            "fort",
+            "museum",
+            "historical"
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Butterfly Beach",
+        "category": "Nature",
+        "description": "Secluded beach accessible only by boat, with butterfly sightings",
+        "fullDescription": "Butterfly Beach is a secluded and picturesque cove in South Goa, accessible only by boat from Palolem or Agonda beaches. The beach gets its name from the numerous butterflies that can be spotted here, especially during the early morning hours. The beach is known for its natural beauty, clear waters, and dolphin sightings. It's a perfect spot for snorkeling, sunbathing, and enjoying the pristine natural environment. Due to its remote location, the beach remains relatively uncrowded, offering a peaceful escape from the more popular tourist beaches.",
+        "latitude": 14.9964,
+        "longitude": 74.0119,
+        "address": "Butterfly Beach, Canacona, South Goa, Goa 403702",
+        "phone": "",
+        "website": "",
+        "image": "butterfly-beach.jpg",
+        "images": [
+            "butterfly-beach.jpg",
+            "butterfly-beach-2.jpg",
+            "butterfly-beach-3.jpg"
+        ],
+        "rating": 4.7,
+        "tags": [
+            "beach",
+            "secluded",
+            "nature"
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Mangeshi Temple",
+        "category": "Religious",
+        "description": "Famous Hindu temple dedicated to Lord Shiva",
+        "fullDescription": "Shri Mangeshi Temple is one of the largest and most famous Hindu temples in Goa, dedicated to Lord Shiva (Mangesh). Located in Priol, Ponda, the temple features beautiful Portuguese-influenced architecture with a distinctive seven-story deepstambha (lamp tower). The temple complex includes a water tank, marriage hall, and other religious structures. The main deity is worshipped as Bhagavan Mangesh, a form of Shiva. The temple is particularly crowded during Maha Shivratri and other Hindu festivals. The peaceful atmosphere and architectural beauty make it a must-visit spiritual destination.",
+        "latitude": 15.4081,
+        "longitude": 74.0306,
+        "address": "Mangeshi Temple Road, Mardol, Ponda, Goa 403404",
+        "phone": "+91 832 234 3210",
+        "website": "https://www.srimangesh.org",
+        "image": "mangeshi-temple.jpg",
+        "images": [
+            "mangeshi-temple.jpg",
+            "mangeshi-temple-2.jpg",
+            "mangeshi-temple-3.jpg"
+        ],
+        "rating": 4.5,
+        "tags": [
+            "temple",
+            "hindu",
+            "architecture"
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Candolim Beach",
+        "category": "Beach",
+        "description": "Long sandy beach with luxury resorts and water sports",
+        "fullDescription": "Candolim Beach is a long stretch of golden sand connecting Calangute to Sinquerim Beach. Known for its relatively calm waters and upscale atmosphere, Candolim is lined with luxury resorts, beach shacks, and restaurants. The beach offers various water sports activities including parasailing, jet skiing, and banana boat rides. The northern end of the beach near Sinquerim is particularly beautiful and less crowded. Candolim is also famous for its beachside flea markets and vibrant nightlife with numerous bars and clubs nearby.",
+        "latitude": 15.5278,
+        "longitude": 73.7653,
+        "address": "Candolim Beach Road, Candolim, North Goa, Goa 403515",
+        "phone": "+91 832 248 9123",
+        "website": "https://www.goatourism.gov.in",
+        "image": "candolim-beach.jpg",
+        "images": [
+            "candolim-beach.jpg",
+            "candolim-beach-2.jpg",
+            "candolim-beach-3.jpg"
+        ],
+        "rating": 4.4,
+        "tags": [
+            "beach",
+            "luxury",
+            "water sports"
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Church of St. Francis of Assisi",
+        "category": "Religious",
+        "description": "Beautiful Baroque church with museum in Old Goa",
+        "fullDescription": "The Church of St. Francis of Assisi is a magnificent Baroque-style church located in Old Goa, adjacent to the Se Cathedral. Built in 1661, the church features a beautifully carved entrance, gilded altars, and exquisite paintings. The interior walls are decorated with frescoes depicting the life of St. Francis of Assisi. The church now houses an archaeological museum containing portraits of Portuguese governors, religious artifacts, and Hindu sculptures from the pre-Portuguese era. The church's architectural beauty and historical significance make it an important part of the UNESCO World Heritage Site of Old Goa.",
+        "latitude": 15.5022,
+        "longitude": 73.9117,
+        "address": "Old Goa, Tiswadi, Goa 403402",
+        "phone": "+91 832 228 5300",
+        "website": "https://www.goatourism.gov.in",
+        "image": "st-francis-church.jpg",
+        "images": [
+            "st-francis-church.jpg",
+            "st-francis-church-2.jpg",
+            "st-francis-church-3.jpg"
+        ],
+        "rating": 4.4,
+        "tags": [
+            "church",
+            "museum",
+            "baroque"
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Mollem National Park",
+        "category": "Nature",
+        "description": "Biodiversity hotspot with rich flora and fauna",
+        "fullDescription": "Mollem National Park is a protected area in the Western Ghats of Goa, known for its rich biodiversity and pristine natural beauty. The park is home to various species of mammals, birds, reptiles, and butterflies. Visitors can spot animals like Bengal tigers, leopards, black panthers, and various species of deer. The park offers several trekking trails through dense forests, leading to waterfalls and viewpoints. The famous Dudhsagar Waterfalls is located within this national park. It's a paradise for nature lovers, bird watchers, and photography enthusiasts.",
+        "latitude": 15.3000,
+        "longitude": 74.2333,
+        "address": "Mollem, Sanguem, South Goa, Goa 403410",
+        "phone": "+91 832 261 2211",
+        "website": "https://www.goaforestdept.gov.in",
+        "image": "mollem-national-park.jpg",
+        "images": [
+            "mollem-national-park.jpg",
+            "mollem-national-park-2.jpg",
+            "mollem-national-park-3.jpg"
+        ],
+        "rating": 4.6,
+        "tags": [
+            "national park",
+            "wildlife",
+            "trekking"
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Anjuna Beach",
+        "category": "Beach",
+        "description": "Famous hippie beach with rocky outcrops and trance parties",
+        "fullDescription": "Anjuna Beach is one of Goa's most famous beaches, known for its rocky landscape, red laterite cliffs, and vibrant hippie culture. The beach gained popularity in the 1960s as a hippie paradise and continues to attract backpackers and alternative lifestyle enthusiasts. Anjuna is famous for its weekly flea market, full moon parties, and trance music scene. The beach features natural rock formations and a unique landscape that makes it perfect for photography. Despite its popularity, Anjuna maintains a laid-back atmosphere and is less commercialized than nearby Calangute and Baga beaches.",
+        "latitude": 15.5764,
+        "longitude": 73.7392,
+        "address": "Anjuna Beach Road, Anjuna, North Goa, Goa 403509",
+        "phone": "+91 832 227 3267",
+        "website": "https://www.goatourism.gov.in",
+        "image": "anjuna-beach.jpg",
+        "images": [
+            "anjuna-beach.jpg",
+            "anjuna-beach-2.jpg",
+            "anjuna-beach-3.jpg"
+        ],
+        "rating": 4.4,
+        "tags": [
+            "beach",
+            "hippie",
+            "parties"
+        ]
+    },
+    {
+        "id": 21,
+        "name": "Shanta Durga Temple",
+        "category": "Religious",
+        "description": "Beautiful temple dedicated to Goddess Shantadurga",
+        "fullDescription": "Shri Shanta Durga Temple is a magnificent Hindu temple dedicated to Goddess Shantadurga, the goddess who mediates between Vishnu and Shiva. Located in Kavlem, Ponda, the temple features a unique blend of Hindu and Portuguese architectural styles. The main temple building is topped with a large dome, while the interior features exquisite carvings and silver doors. The temple is particularly famous for its annual festivals and celebrations. The peaceful surroundings and spiritual atmosphere make it a popular destination for both devotees and tourists interested in Goan temple architecture.",
+        "latitude": 15.4108,
+        "longitude": 74.0167,
+        "address": "Kavlem, Ponda, Goa 403401",
+        "phone": "+91 832 231 2687",
+        "website": "https://www.shreeshantadurga.com",
+        "image": "shanta-durga-temple.jpg",
+        "images": [
+            "shanta-durga-temple.jpg",
+            "shanta-durga-temple-2.jpg",
+            "shanta-durga-temple-3.jpg"
+        ],
+        "rating": 4.5,
+        "tags": [
+            "temple",
+            "hindu",
+            "architecture"
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Sinquerim Beach",
+        "category": "Beach",
+        "description": "Quiet beach near Fort Aguada with luxury resorts",
+        "fullDescription": "Sinquerim Beach is a beautiful and relatively quiet beach located just south of Candolim, known for its clear waters and stunning views of Fort Aguada. The beach is home to several luxury resorts, including the famous Taj Fort Aguada. Sinquerim is popular for water sports, especially snorkeling and scuba diving due to its clear waters and marine life. The beach offers spectacular sunset views and is less crowded than its northern neighbors. The historic Fort Aguada stands majestically on the headland, adding to the scenic beauty of the area.",
+        "latitude": 15.4931,
+        "longitude": 73.7736,
+        "address": "Sinquerim Beach Road, Candolim, North Goa, Goa 403515",
+        "phone": "+91 832 248 9567",
+        "website": "https://www.goatourism.gov.in",
+        "image": "sinquerim-beach.jpg",
+        "images": [
+            "sinquerim-beach.jpg",
+            "sinquerim-beach-2.jpg",
+            "sinquerim-beach-3.jpg"
+        ],
+        "rating": 4.5,
+        "tags": [
+            "beach",
+            "luxury",
+            "snorkeling"
+        ]
+    },
+    {
+        "id": 23,
+        "name": "Mormugao Fort",
+        "category": "Historical",
+        "description": "17th-century Portuguese fort with harbor views",
+        "fullDescription": "Mormugao Fort is a 17th-century Portuguese fort located at the entrance to the Mormugao harbour. Built in 1624, the fort was strategically important for protecting the Portuguese interests in the region. Although largely in ruins today, the fort offers panoramic views of the Arabian Sea and the busy Mormugao Harbour. The fort's remaining structures include a chapel, a few bastions, and some walls. It's a peaceful spot for history enthusiasts and those interested in military architecture. The fort's location provides excellent opportunities for photography, especially during sunset.",
+        "latitude": 15.4083,
+        "longitude": 73.7917,
+        "address": "Mormugao, South Goa, Goa 403803",
+        "phone": "",
+        "website": "https://www.goatourism.gov.in",
+        "image": "mormugao-fort.jpg",
+        "images": [
+            "mormugao-fort.jpg",
+            "mormugao-fort-2.jpg",
+            "mormugao-fort-3.jpg"
+        ],
+        "rating": 3.9,
+        "tags": [
+            "fort",
+            "historical",
+            "harbor"
+        ]
+    },
+    {
+        "id": 24,
+        "name": "Agonda Beach",
+        "category": "Beach",
+        "description": "Serene beach perfect for relaxation and turtle nesting",
+        "fullDescription": "Agonda Beach is a peaceful and relatively undeveloped beach in South Goa, known for its natural beauty and tranquility. Unlike the crowded beaches of North Goa, Agonda offers a more authentic and relaxed experience. The beach is lined with simple beach huts and shacks serving fresh seafood. Agonda is also an important nesting site for olive ridley sea turtles, and conservation efforts are undertaken during the nesting season. The beach is perfect for long walks, swimming, and simply relaxing with a book. It's an ideal destination for those seeking peace and natural beauty away from the crowds.",
+        "latitude": 15.0333,
+        "longitude": 74.0500,
+        "address": "Agonda Beach Road, Canacona, South Goa, Goa 403702",
+        "phone": "+91 832 264 3789",
+        "website": "https://www.goatourism.gov.in",
+        "image": "agonda-beach.jpg",
+        "images": [
+            "agonda-beach.jpg",
+            "agonda-beach-2.jpg",
+            "agonda-beach-3.jpg"
+        ],
+        "rating": 4.6,
+        "tags": [
+            "beach",
+            "peaceful",
+            "turtles"
+        ]
+    },
+    {
+        "id": 25,
+        "name": "Naval Aviation Museum",
+        "category": "Museum",
+        "description": "India's only naval aviation museum with aircraft exhibits",
+        "fullDescription": "The Naval Aviation Museum is India's first and only naval aviation museum, located near Bogmalo Beach. The museum showcases the history of Indian naval aviation through various exhibits, including aircraft, weapons, and equipment. The outdoor display features actual aircraft used by the Indian Navy, while the indoor gallery displays photographs, models, and artifacts related to naval aviation history. Visitors can see vintage aircraft, helicopters, and various aviation equipment. The museum provides fascinating insights into the development of naval aviation in India and is a must-visit for aviation enthusiasts.",
+        "latitude": 15.3833,
+        "longitude": 73.8667,
+        "address": "Bogmalo Road, Vasco da Gama, Goa 403802",
+        "phone": "+91 832 255 6526",
+        "website": "https://www.indiannavy.nic.in",
+        "image": "naval-aviation-museum.jpg",
+        "images": [
+            "naval-aviation-museum.jpg",
+            "naval-aviation-museum-2.jpg",
+            "naval-aviation-museum-3.jpg"
+        ],
+        "rating": 4.2,
+        "tags": [
+            "museum",
+            "aviation",
+            "military"
+        ]
+    },
+    {
+        "id": 26,
+        "name": "Colva Beach",
+        "category": "Beach",
+        "description": "Popular South Goa beach with white sands and fishing boats",
+        "fullDescription": "Colva Beach is one of the most popular beaches in South Goa, known for its wide stretch of white sand and traditional fishing boats. The beach offers a more relaxed atmosphere compared to North Goa beaches while still having good tourist facilities. Colva is famous for its beach shacks serving fresh seafood and Goan delicacies. The beach is particularly beautiful during sunset when the sky turns orange and pink. The nearby Our Lady of Mercy Church is an important pilgrimage site. Colva maintains a good balance between tourist amenities and local Goan culture.",
+        "latitude": 15.2792,
+        "longitude": 73.9111,
+        "address": "Colva Beach Road, Colva, South Goa, Goa 403708",
+        "phone": "+91 832 278 8123",
+        "website": "https://www.goatourism.gov.in",
+        "image": "colva-beach.jpg",
+        "images": [
+            "colva-beach.jpg",
+            "colva-beach-2.jpg",
+            "colva-beach-3.jpg"
+        ],
+        "rating": 4.3,
+        "tags": [
+            "beach",
+            "fishing",
+            "family-friendly"
+        ]
+    },
+    {
+        "id": 27,
+        "name": "Cab de Rama Fort",
+        "category": "Historical",
+        "description": "Ancient fort with panoramic views of the Arabian Sea",
+        "fullDescription": "Cab de Rama Fort, also known as Cabo de Rama Fort, is an ancient fort with a history dating back to pre-Portuguese times. Located in South Goa, the fort offers breathtaking panoramic views of the Arabian Sea and the surrounding coastline. According to legend, the fort derives its name from Lord Rama, who stayed here during his exile from Ayodhya. The Portuguese captured the fort in 1763 and built additional structures. Today, the fort is in ruins but offers spectacular views and a peaceful atmosphere. The small church inside the fort is still maintained and used for occasional services.",
+        "latitude": 15.0917,
+        "longitude": 73.9250,
+        "address": "Cabo de Rama, Canacona, South Goa, Goa 403702",
+        "phone": "",
+        "website": "https://www.goatourism.gov.in",
+        "image": "cabo-de-rama-fort.jpg",
+        "images": [
+            "cabo-de-rama-fort.jpg",
+            "cabo-de-rama-fort-2.jpg",
+            "cabo-de-rama-fort-3.jpg"
+        ],
+        "rating": 4.4,
+        "tags": [
+            "fort",
+            "viewpoint",
+            "historical"
+        ]
+    },
+    {
+        "id": 28,
+        "name": "Bondla Wildlife Sanctuary",
+        "category": "Nature",
+        "description": "Smallest wildlife sanctuary with zoo and botanical garden",
+        "fullDescription": "Bondla Wildlife Sanctuary is the smallest wildlife sanctuary in Goa, but it offers a rich experience for nature lovers. The sanctuary features a zoological park, botanical garden, and deer safari park. Visitors can spot animals like Indian bison, sambar deer, wild boar, and various species of birds and butterflies. The sanctuary is particularly popular with school children and families due to its educational value and manageable size. The botanical garden showcases various plant species native to the Western Ghats. It's an ideal destination for a day trip to experience Goa's wildlife in a compact area.",
+        "latitude": 15.4333,
+        "longitude": 74.1667,
+        "address": "Bondla, Usgao, Ponda, Goa 403401",
+        "phone": "+91 832 234 5211",
+        "website": "https://www.goaforestdept.gov.in",
+        "image": "bondla-sanctuary.jpg",
+        "images": [
+            "bondla-sanctuary.jpg",
+            "bondla-sanctuary-2.jpg",
+            "bondla-sanctuary-3.jpg"
+        ],
+        "rating": 4.1,
+        "tags": [
+            "wildlife",
+            "zoo",
+            "botanical garden"
+        ]
+    },
+    {
+        "id": 29,
+        "name": "Miramar Beach",
+        "category": "Beach",
+        "description": "City beach near Panaji with sunset views",
+        "fullDescription": "Miramar Beach is the closest beach to Goa's capital city Panaji, located at the mouth of the Mandovi River. The beach offers beautiful views of the Arabian Sea and is particularly famous for its spectacular sunsets. Unlike the more commercial beaches of North Goa, Miramar has a more local atmosphere and is popular with residents of Panaji. The beach is lined with coconut palms and has a promenade perfect for evening walks. The nearby Kala Academy and Salim Ali Bird Sanctuary add to the area's attractions. Miramar is easily accessible and offers a convenient beach experience for those staying in Panaji.",
+        "latitude": 15.4833,
+        "longitude": 73.8000,
+        "address": "Miramar, Panaji, Goa 403002",
+        "phone": "+91 832 246 5789",
+        "website": "https://www.goatourism.gov.in",
+        "image": "miramar-beach.jpg",
+        "images": [
+            "miramar-beach.jpg",
+            "miramar-beach-2.jpg",
+            "miramar-beach-3.jpg"
+        ],
+        "rating": 4.0,
+        "tags": [
+            "beach",
+            "city",
+            "sunset"
+        ]
+    },
+    {
+        "id": 30,
+        "name": "Shri Mahalasa Temple",
+        "category": "Religious",
+        "description": "Ancient temple dedicated to Goddess Mahalasa",
+        "fullDescription": "Shri Mahalasa Temple is an ancient Hindu temple dedicated to Goddess Mahalasa, an incarnation of Goddess Parvati. Located in Mardol, Ponda, the temple is known for its beautiful architecture and spiritual significance. The temple features a golden dome, intricate carvings, and a peaceful atmosphere. The main deity is worshipped as Mahalasa Narayani, and the temple is particularly crowded during festivals and special occasions. The temple's architecture shows influences from various periods, making it interesting for architecture enthusiasts. The surrounding area has several other important temples, making it part of Goa's temple trail.",
+        "latitude": 15.4167,
+        "longitude": 74.0333,
+        "address": "Mardol, Ponda, Goa 403404",
+        "phone": "+91 832 234 2987",
+        "website": "https://www.mahalasadevi.com",
+        "image": "mahalasa-temple.jpg",
+        "images": [
+            "mahalasa-temple.jpg",
+            "mahalasa-temple-2.jpg",
+            "mahalasa-temple-3.jpg"
+        ],
+        "rating": 4.4,
+        "tags": [
+            "temple",
+            "hindu",
+            "architecture"
+        ]
+    },
+    {
+        "id": 31,
+        "name": "Bogmalo Beach",
+        "category": "Beach",
+        "description": "Small secluded beach near Dabolim airport",
+        "fullDescription": "Bogmalo Beach is a small, secluded beach located near Dabolim Airport, making it easily accessible for travelers. Despite its proximity to the airport, the beach maintains a peaceful and relaxed atmosphere. The beach is shaped like a cove and is surrounded by hills, giving it a protected feel. Bogmalo is popular for water sports, especially snorkeling and swimming due to its relatively calm waters. The beach has a few shacks and restaurants serving fresh seafood. It's an ideal spot for those looking for a quiet beach experience without venturing too far from the airport.",
+        "latitude": 15.3667,
+        "longitude": 73.8667,
+        "address": "Bogmalo Beach Road, Vasco da Gama, Goa 403802",
+        "phone": "+91 832 255 6345",
+        "website": "https://www.goatourism.gov.in",
+        "image": "bogmalo-beach.jpg",
+        "images": [
+            "bogmalo-beach.jpg",
+            "bogmalo-beach-2.jpg",
+            "bogmalo-beach-3.jpg"
+        ],
+        "rating": 4.2,
+        "tags": [
+            "beach",
+            "secluded",
+            "snorkeling"
+        ]
+    },
+    {
+        "id": 32,
+        "name": "Salim Ali Bird Sanctuary",
+        "category": "Nature",
+        "description": "Mangrove forest sanctuary on Chorao Island",
+        "fullDescription": "The Salim Ali Bird Sanctuary is located on Chorao Island along the Mandovi River and is named after India's most famous ornithologist, Dr. Salim Ali. The sanctuary comprises mangrove forests, marshes, and tidal flats that provide habitat for various bird species. Visitors can spot kingfishers, eagles, woodpeckers, and migratory birds during the winter months. The best way to explore the sanctuary is by boat, which allows visitors to navigate through the mangrove channels. The sanctuary is particularly beautiful during early morning and late afternoon when bird activity is at its peak. It's a paradise for bird watchers and nature photographers.",
+        "latitude": 15.5167,
+        "longitude": 73.8667,
+        "address": "Chorao Island, Ilhas, Goa 403102",
+        "phone": "+91 832 228 5671",
+        "website": "https://www.goaforestdept.gov.in",
+        "image": "salim-ali-sanctuary.jpg",
+        "images": [
+            "salim-ali-sanctuary.jpg",
+            "salim-ali-sanctuary-2.jpg",
+            "salim-ali-sanctuary-3.jpg"
+        ],
+        "rating": 4.3,
+        "tags": [
+            "bird sanctuary",
+            "mangrove",
+            "nature"
+        ]
+    },
+    {
+        "id": 33,
+        "name": "Ashwem Beach",
+        "category": "Beach",
+        "description": "Pristine beach with luxury resorts and turtle nesting",
+        "fullDescription": "Ashwem Beach is a beautiful and relatively undeveloped beach in North Goa, known for its pristine sands and clear waters. The beach has gained popularity in recent years with the establishment of luxury resorts and beach clubs. Despite this development, Ashwem maintains a peaceful atmosphere compared to nearby Morjim. The beach is an important nesting site for olive ridley turtles, and conservation efforts are visible along the shoreline. Ashwem is popular with both luxury travelers seeking upscale accommodations and those looking for a more relaxed beach experience. The beach offers excellent swimming conditions and beautiful sunset views.",
+        "latitude": 15.6333,
+        "longitude": 73.7333,
+        "address": "Ashwem Beach Road, Mandrem, North Goa, Goa 403527",
+        "phone": "+91 832 224 7123",
+        "website": "https://www.goatourism.gov.in",
+        "image": "ashwem-beach.jpg",
+        "images": [
+            "ashwem-beach.jpg",
+            "ashwem-beach-2.jpg",
+            "ashwem-beach-3.jpg"
+        ],
+        "rating": 4.5,
+        "tags": [
+            "beach",
+            "luxury",
+            "turtles"
+        ]
+    },
+    {
+        "id": 34,
+        "name": "Corjuem Fort",
+        "category": "Historical",
+        "description": "Small inland fort with river views",
+        "fullDescription": "Corjuem Fort is a small inland fort located on the Corjuem Island in the Mandovi River. Built in 1705, this fort was strategically important for defending the Portuguese territories against Maratha invasions. Unlike the coastal forts, Corjuem is smaller and less visited, offering a more intimate historical experience. The fort offers beautiful views of the surrounding river and countryside. The well-preserved walls and bastions give visitors a good sense of the fort's original layout. The peaceful atmosphere and lack of crowds make it an ideal spot for history enthusiasts looking to explore Goa's lesser-known historical sites.",
+        "latitude": 15.6000,
+        "longitude": 73.8833,
+        "address": "Corjuem, Aldona, North Goa, Goa 403101",
+        "phone": "",
+        "website": "https://www.goatourism.gov.in",
+        "image": "corjuem-fort.jpg",
+        "images": [
+            "corjuem-fort.jpg",
+            "corjuem-fort-2.jpg",
+            "corjuem-fort-3.jpg"
+        ],
+        "rating": 3.8,
+        "tags": [
+            "fort",
+            "historical",
+            "river"
+        ]
+    },
+    {
+        "id": 35,
+        "name": "Velsao Beach",
+        "category": "Beach",
+        "description": "Quiet traditional fishing beach in South Goa",
+        "fullDescription": "Velsao Beach is a quiet and traditional fishing beach in South Goa, located near the Maharashtra border. The beach offers a glimpse into the traditional Goan way of life, with fishing boats dotting the shoreline and local fishermen going about their daily work. Velsao is much less developed for tourism compared to other beaches, making it ideal for those seeking an authentic experience. The beach has a few simple shacks serving fresh seafood and local cuisine. The nearby Velsao Palace is an interesting historical site worth visiting. Velsao's peaceful atmosphere and local character make it a hidden gem for travelers looking to escape the crowds.",
+        "latitude": 15.3667,
+        "longitude": 73.9333,
+        "address": "Velsao Beach Road, Velsao, South Goa, Goa 403711",
+        "phone": "+91 832 288 9345",
+        "website": "https://www.goatourism.gov.in",
+        "image": "velsao-beach.jpg",
+        "images": [
+            "velsao-beach.jpg",
+            "velsao-beach-2.jpg",
+            "velsao-beach-3.jpg"
+        ],
+        "rating": 4.1,
+        "tags": [
+            "beach",
+            "fishing",
+            "traditional"
+        ]
+    },
+    {
+        "id": 36,
+        "name": "Kerala Temple",
+        "category": "Religious",
+        "description": "Ancient temple with unique architecture in Canacona",
+        "fullDescription": "The Kerala Temple, also known as Shri Mallikarjuna Temple, is an ancient Hindu temple in Canacona known for its unique Kerala-style architecture. Unlike most Goan temples that show Portuguese influences, this temple features traditional Kerala architectural elements including wooden carvings and distinctive roof structures. The temple is dedicated to Lord Shiva and is an important pilgrimage site for locals. The peaceful surroundings and architectural uniqueness make it worth visiting for those interested in temple architecture. The temple is particularly vibrant during Maha Shivratri and other Hindu festivals when special ceremonies are conducted.",
+        "latitude": 14.9958,
+        "longitude": 74.0250,
+        "address": "Kerala, Canacona, South Goa, Goa 403702",
+        "phone": "+91 832 264 3123",
+        "website": "",
+        "image": "kerala-temple.jpg",
+        "images": [
+            "kerala-temple.jpg",
+            "kerala-temple-2.jpg",
+            "kerala-temple-3.jpg"
+        ],
+        "rating": 4.2,
+        "tags": [
+            "temple",
+            "architecture",
+            "hindu"
+        ]
+    },
+    {
+        "id": 37,
+        "name": "Morjim Beach",
+        "category": "Beach",
+        "description": "Russian enclave beach with turtle nesting sites",
+        "fullDescription": "Morjim Beach is often called 'Little Russia' due to its popularity with Russian tourists and the presence of Russian signage and businesses. Located at the mouth of the Chapora River, the beach is known for its peaceful atmosphere and natural beauty. Morjim is an important nesting site for olive ridley sea turtles, and conservation efforts are visible along the beach. The northern part of the beach is particularly quiet and scenic, with sand dunes and coconut groves. Morjim offers a good balance between tourist amenities and natural environment, making it popular with both international tourists and those seeking a more relaxed beach experience.",
+        "latitude": 15.6167,
+        "longitude": 73.7333,
+        "address": "Morjim Beach Road, Pernem, North Goa, Goa 403512",
+        "phone": "+91 832 224 7567",
+        "website": "https://www.goatourism.gov.in",
+        "image": "morjim-beach.jpg",
+        "images": [
+            "morjim-beach.jpg",
+            "morjim-beach-2.jpg",
+            "morjim-beach-3.jpg"
+        ],
+        "rating": 4.4,
+        "tags": [
+            "beach",
+            "russian",
+            "turtles"
+        ]
+    },
+    {
+        "id": 38,
+        "name": "Arvalem Waterfalls",
+        "category": "Nature",
+        "description": "Beautiful waterfalls with ancient caves nearby",
+        "fullDescription": "Arvalem Waterfalls, also known as Harvalem Waterfalls, is a beautiful waterfall located in North Goa near Sanquelim. The waterfall cascades from a height of about 50 feet into a natural pool below, which is suitable for swimming during the dry season. The area around the waterfall is surrounded by lush green vegetation, creating a picturesque setting. Nearby are the famous Arvalem Caves, which are rock-cut caves dating back to the 6th century. The Rudreshwar Temple is also located close to the waterfalls. Arvalem is particularly impressive during and after the monsoon season when the water flow is at its peak.",
+        "latitude": 15.5667,
+        "longitude": 74.0333,
+        "address": "Arvalem, Sanquelim, North Goa, Goa 403505",
+        "phone": "+91 832 236 1234",
+        "website": "https://www.goatourism.gov.in",
+        "image": "arvalem-waterfalls.jpg",
+        "images": [
+            "arvalem-waterfalls.jpg",
+            "arvalem-waterfalls-2.jpg",
+            "arvalem-waterfalls-3.jpg"
+        ],
+        "rating": 4.2,
+        "tags": [
+            "waterfall",
+            "swimming",
+            "nature"
+        ]
+    },
+    {
+        "id": 39,
+        "name": "Majorda Beach",
+        "category": "Beach",
+        "description": "Famous for beach resorts and Christmas celebrations",
+        "fullDescription": "Majorda Beach is known for its luxury beach resorts and historical significance as the place where the recipe for Goa's famous bebinca dessert was developed by Portuguese nuns. The beach offers a wide stretch of white sand and good swimming conditions. Majorda is particularly famous for its Christmas and New Year celebrations, which attract both domestic and international tourists. The beach has several upscale resorts and beach shacks serving delicious Goan cuisine. The southern end of the beach is quieter and less developed, offering a more peaceful experience. Majorda's combination of luxury amenities and natural beauty makes it popular with both families and couples.",
+        "latitude": 15.3000,
+        "longitude": 73.9667,
+        "address": "Majorda Beach Road, Salcete, South Goa, Goa 403713",
+        "phone": "+91 832 288 7123",
+        "website": "https://www.goatourism.gov.in",
+        "image": "majorda-beach.jpg",
+        "images": [
+            "majorda-beach.jpg",
+            "majorda-beach-2.jpg",
+            "majorda-beach-3.jpg"
+        ],
+        "rating": 4.3,
+        "tags": [
+            "beach",
+            "luxury",
+            "resorts"
+        ]
+    },
+    {
+        "id": 40,
+        "name": "Arvalem Caves",
+        "category": "Historical",
+        "description": "Ancient rock-cut caves with historical significance",
+        "fullDescription": "The Arvalem Caves, also known as Pandava Caves, are ancient rock-cut caves dating back to the 6th century. Located near the Arvalem Waterfalls, these caves are believed to have been carved by Buddhist monks, though local legend attributes them to the Pandavas from the Mahabharata. The caves feature simple rock-cut chambers with Shivalingas, suggesting later Hindu use. The architectural style shows influences from both Buddhist and Hindu traditions. The caves provide fascinating insights into Goa's ancient history and religious practices. The nearby Arvalem Waterfalls and Rudreshwar Temple make this area a comprehensive historical and natural destination.",
+        "latitude": 15.5667,
+        "longitude": 74.0333,
+        "address": "Arvalem, Sanquelim, North Goa, Goa 403505",
+        "phone": "+91 832 236 1567",
+        "website": "https://www.goatourism.gov.in",
+        "image": "arvalem-caves.jpg",
+        "images": [
+            "arvalem-caves.jpg",
+            "arvalem-caves-2.jpg",
+            "arvalem-caves-3.jpg"
+        ],
+        "rating": 4.0,
+        "tags": [
+            "caves",
+            "historical",
+            "archaeological"
+        ]
+    },
+    {
+        "id": 41,
+        "name": "Betul Beach",
+        "category": "Beach",
+        "description": "Fishing village beach with river and sea confluence",
+        "fullDescription": "Betul Beach is located at the southern tip of Goa where the Sal River meets the Arabian Sea. The beach is part of a traditional fishing village and offers a glimpse into the authentic Goan way of life. The confluence of river and sea creates a unique landscape with calm waters on the river side and waves on the sea side. Betul is known for its fresh seafood, particularly lobster and crab, which can be enjoyed at the local shacks. The beach is less crowded and maintains a peaceful atmosphere. The nearby Betul Fort adds historical interest to the area. Betul is ideal for those seeking an off-the-beaten-path beach experience.",
+        "latitude": 15.1500,
+        "longitude": 73.9667,
+        "address": "Betul Beach Road, Salcete, South Goa, Goa 403728",
+        "phone": "+91 832 288 6456",
+        "website": "https://www.goatourism.gov.in",
+        "image": "betul-beach.jpg",
+        "images": [
+            "betul-beach.jpg",
+            "betul-beach-2.jpg",
+            "betul-beach-3.jpg"
+        ],
+        "rating": 4.2,
+        "tags": [
+            "beach",
+            "fishing",
+            "river"
+        ]
+    },
+    {
+        "id": 42,
+        "name": "Shri Naguesh Temple",
+        "category": "Religious",
+        "description": "Ancient temple dedicated to Lord Shiva",
+        "fullDescription": "Shri Naguesh Temple is an ancient Hindu temple dedicated to Lord Shiva, located in Bandode, Ponda. The temple is known for its beautiful architecture and spiritual significance. The main deity is worshipped as Naguesh, a form of Shiva, and the temple complex includes smaller shrines dedicated to other deities. The temple features traditional Goan temple architecture with influences from various periods. The peaceful surroundings and well-maintained temple complex make it a popular destination for both devotees and architecture enthusiasts. The temple is particularly vibrant during Maha Shivratri and other Hindu festivals when special ceremonies and celebrations take place.",
+        "latitude": 15.4167,
+        "longitude": 74.0167,
+        "address": "Bandode, Ponda, Goa 403401",
+        "phone": "+91 832 231 2456",
+        "website": "",
+        "image": "naguesh-temple.jpg",
+        "images": [
+            "naguesh-temple.jpg",
+            "naguesh-temple-2.jpg",
+            "naguesh-temple-3.jpg"
+        ],
+        "rating": 4.3,
+        "tags": [
+            "temple",
+            "hindu",
+            "architecture"
+        ]
+    },
+    {
+        "id": 43,
+        "name": "Querim Beach",
+        "category": "Beach",
+        "description": "Northernmost beach of Goa with Tiracol Fort",
+        "fullDescription": "Querim Beach, also known as Keri Beach, is the northernmost beach in Goa, located near the Maharashtra border. The beach is known for its pristine natural beauty and the historic Tiracol Fort which stands on the northern headland. The beach offers spectacular views of the fort and the Arabian Sea. Querim is much less developed than other Goan beaches, making it ideal for those seeking solitude and natural beauty. The beach is accessible by a ferry from the Tiracol Fort side. The northern location means it's less crowded and maintains a peaceful atmosphere. The nearby Tiracol Fort has been converted into a heritage hotel, offering luxury accommodation with stunning views.",
+        "latitude": 15.7167,
+        "longitude": 73.6833,
+        "address": "Querim Beach Road, Pernem, North Goa, Goa 403524",
+        "phone": "+91 832 224 8123",
+        "website": "https://www.goatourism.gov.in",
+        "image": "querim-beach.jpg",
+        "images": [
+            "querim-beach.jpg",
+            "querim-beach-2.jpg",
+            "querim-beach-3.jpg"
+        ],
+        "rating": 4.5,
+        "tags": [
+            "beach",
+            "secluded",
+            "fort"
+        ]
+    },
+    {
+        "id": 44,
+        "name": "Menezes Braganza House",
+        "category": "Historical",
+        "description": "Heritage Portuguese mansion with antique collections",
+        "fullDescription": "The Menezes Braganza House is a beautifully preserved Portuguese mansion in Chandor, showcasing the lifestyle of Goa's elite during the colonial era. The house is divided into two sections owned by different branches of the same family. The mansion features exquisite furniture, Chinese porcelain, antique glassware, and a magnificent library with over 5000 books. The house's architecture combines Portuguese and Indian elements, with large windows, high ceilings, and beautiful courtyards. The current owners often give personal tours, sharing fascinating stories about the house and its history. It's a living museum that offers insights into Goa's colonial past and the lives of its aristocratic families.",
+        "latitude": 15.1500,
+        "longitude": 74.0333,
+        "address": "Chandor, Salcete, South Goa, Goa 403714",
+        "phone": "+91 832 278 4201",
+        "website": "",
+        "image": "braganza-house.jpg",
+        "images": [
+            "braganza-house.jpg",
+            "braganza-house-2.jpg",
+            "braganza-house-3.jpg"
+        ],
+        "rating": 4.4,
+        "tags": [
+            "heritage",
+            "mansion",
+            "historical"
+        ]
+    },
+    {
+        "id": 45,
+        "name": "Cavelossim Beach",
+        "category": "Beach",
+        "description": "Upscale beach with luxury resorts and black lava rocks",
+        "fullDescription": "Cavelossim Beach is known for its unique contrast of white sand and black lava rocks, creating a dramatic landscape. The beach is home to several luxury resorts and is popular with upscale tourists seeking a more refined beach experience. The southern part of the beach is particularly beautiful, with the black rocks creating natural formations against the white sand and blue sea. Cavelossim offers good swimming conditions and various water sports activities. The beach is less crowded than North Goa beaches, making it ideal for those seeking relaxation and luxury. The nearby Assolna and Betul beaches can be explored for a more local experience.",
+        "latitude": 15.1833,
+        "longitude": 73.9500,
+        "address": "Cavelossim Beach Road, Salcete, South Goa, Goa 403731",
+        "phone": "+91 832 287 1234",
+        "website": "https://www.goatourism.gov.in",
+        "image": "cavelossim-beach.jpg",
+        "images": [
+            "cavelossim-beach.jpg",
+            "cavelossim-beach-2.jpg",
+            "cavelossim-beach-3.jpg"
+        ],
+        "rating": 4.4,
+        "tags": [
+            "beach",
+            "luxury",
+            "rocks"
+        ]
+    },
+    {
+        "id": 46,
+        "name": "Safa Shahouri Masjid",
+        "category": "Religious",
+        "description": "Historic mosque with unique architecture in Ponda",
+        "fullDescription": "Safa Shahouri Masjid, also known as Safa Masjid, is a historic mosque located in Ponda, dating back to the 16th century. The mosque is known for its unique architecture that blends Islamic and local Goan elements. Unlike typical mosque architecture, Safa Masjid features a structure that resembles a temple, reflecting the cultural synthesis of the region. The mosque was built during the Adil Shahi rule before the Portuguese conquest of Goa. The peaceful surroundings and historical significance make it an interesting site for those interested in Islamic architecture and Goa's multicultural history. The mosque is still actively used for prayers by the local Muslim community.",
+        "latitude": 15.4000,
+        "longitude": 74.0167,
+        "address": "Safa Masjid Road, Ponda, Goa 403401",
+        "phone": "+91 832 231 2678",
+        "website": "",
+        "image": "safa-masjid.jpg",
+        "images": [
+            "safa-masjid.jpg",
+            "safa-masjid-2.jpg",
+            "safa-masjid-3.jpg"
+        ],
+        "rating": 4.1,
+        "tags": [
+            "mosque",
+            "islamic",
+            "architecture"
+        ]
+    },
+    {
+        "id": 47,
+        "name": "Galjibag Beach",
+        "category": "Beach",
+        "description": "Turtle nesting beach with pristine natural environment",
+        "fullDescription": "Galjibag Beach is one of Goa's most pristine and least developed beaches, known for its important role as a nesting site for olive ridley sea turtles. The beach maintains a completely natural environment with minimal development, making it ideal for nature lovers and those seeking solitude. The beach is patrolled by conservation volunteers during the turtle nesting season to protect the eggs and hatchlings. Galjibag offers a raw, untouched beach experience with dense casuarina groves behind the beach. The lack of commercial development means visitors should bring their own food and water. It's a perfect destination for those looking to experience Goa's natural beauty in its purest form.",
+        "latitude": 15.0833,
+        "longitude": 73.9667,
+        "address": "Galjibag Beach Road, Canacona, South Goa, Goa 403702",
+        "phone": "",
+        "website": "https://www.goatourism.gov.in",
+        "image": "galjibag-beach.jpg",
+        "images": [
+            "galjibag-beach.jpg",
+            "galjibag-beach-2.jpg",
+            "galjibag-beach-3.jpg"
+        ],
+        "rating": 4.6,
+        "tags": [
+            "beach",
+            "turtles",
+            "pristine"
+        ]
+    },
+    {
+        "id": 48,
+        "name": "Rachol Seminary",
+        "category": "Religious",
+        "description": "Historic Catholic seminary with art museum",
+        "fullDescription": "Rachol Seminary is one of the oldest Catholic seminaries in Asia, established in 1526 by the Portuguese. Located in Rachol, South Goa, the seminary has played a crucial role in the spread of Christianity in Asia. The complex includes a beautiful church, living quarters, and an art museum containing valuable religious artifacts, paintings, and sculptures. The seminary's architecture reflects the Portuguese colonial style with Indian influences. The museum showcases the history of Christianity in Goa and the seminary's role in religious education. The peaceful atmosphere and historical significance make it an interesting destination for those interested in religious history and colonial architecture.",
+        "latitude": 15.3000,
+        "longitude": 74.0333,
+        "address": "Rachol, Salcete, South Goa, Goa 403705",
+        "phone": "+91 832 277 7034",
+        "website": "https://www.racholseminary.org",
+        "image": "rachol-seminary.jpg",
+        "images": [
+            "rachol-seminary.jpg",
+            "rachol-seminary-2.jpg",
+            "rachol-seminary-3.jpg"
+        ],
+        "rating": 4.3,
+        "tags": [
+            "seminary",
+            "church",
+            "museum"
+        ]
+    },
+    {
+        "id": 49,
+        "name": "Hollant Beach",
+        "category": "Beach",
+        "description": "Secluded beach ideal for swimming and picnics",
+        "fullDescription": "Hollant Beach is a small, secluded beach located near Bogmalo, known for its calm waters and peaceful atmosphere. The beach is shaped like a bay, which protects it from strong waves, making it ideal for swimming and water activities. Hollant is much less crowded than nearby beaches, offering a more intimate beach experience. The beach has a few simple shacks serving fresh seafood and refreshments. The surrounding hills provide a beautiful backdrop and opportunities for short walks. Hollant is popular with locals for picnics and family outings. It's an ideal spot for those looking for a quiet beach day away from the tourist crowds.",
+        "latitude": 15.3667,
+        "longitude": 73.8667,
+        "address": "Hollant Beach Road, Vasco da Gama, Goa 403802",
+        "phone": "+91 832 255 6234",
+        "website": "https://www.goatourism.gov.in",
+        "image": "hollant-beach.jpg",
+        "images": [
+            "hollant-beach.jpg",
+            "hollant-beach-2.jpg",
+            "hollant-beach-3.jpg"
+        ],
+        "rating": 4.2,
+        "tags": [
+            "beach",
+            "swimming",
+            "secluded"
+        ]
+    },
+    {
+        "id": 50,
+        "name": "Three Kings Church",
+        "category": "Religious",
+        "description": "Hilltop church with panoramic views and legends",
+        "fullDescription": "The Three Kings Church, also known as Chapel of the Three Kings, is located on a hilltop in Cansaulim, offering panoramic views of the surrounding countryside and distant sea. The chapel is associated with a local legend about three kings who ruled the area and met their tragic end on this hill. The church is particularly famous for its annual Feast of the Three Kings celebration on January 6th, which includes a colorful procession and reenactment of the biblical story. The climb to the church is rewarded with breathtaking views, especially during sunset. The peaceful atmosphere and interesting legends make it a worthwhile destination for both religious visitors and those interested in local folklore.",
+        "latitude": 15.3333,
+        "longitude": 73.9167,
+        "address": "Three Kings Hill, Cansaulim, South Goa, Goa 403712",
+        "phone": "+91 832 288 7345",
+        "website": "",
+        "image": "three-kings-church.jpg",
+        "images": [
+            "three-kings-church.jpg",
+            "three-kings-church-2.jpg",
+            "three-kings-church-3.jpg"
+        ],
+        "rating": 4.4,
+        "tags": [
+            "church",
+            "viewpoint",
+            "legends"
+        ]
+    }
+]

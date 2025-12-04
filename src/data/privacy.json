@@ -1,0 +1,26 @@
+{
+    "title": "Privacy Policy",
+    "lastUpdated": "November 2024",
+    "sections": [
+        {
+            "heading": "Location Data",
+            "content": "This app uses your device's location to calculate distances to nearby places. Your location data is processed locally on your device and is never sent to any server or third party."
+        },
+        {
+            "heading": "Data Storage",
+            "content": "All place information is stored locally in the app. We do not collect, store, or transmit any personal information or usage data."
+        },
+        {
+            "heading": "Permissions",
+            "content": "The app requests location permission to provide distance calculations. You can deny this permission, and the app will use a default location (Panaji, Goa) instead."
+        },
+        {
+            "heading": "Third-Party Services",
+            "content": "When you use the 'Navigate' feature, you will be redirected to Google Maps. Please refer to Google's privacy policy for information about their data practices."
+        },
+        {
+            "heading": "Changes to Privacy Policy",
+            "content": "We may update this privacy policy from time to time. Any changes will be reflected in the app with an updated 'Last Updated' date."
+        }
+    ]
+}
