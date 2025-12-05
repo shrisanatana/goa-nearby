@@ -1,4 +1,4 @@
-import { state } from '../state/appState.js';
+import { state, setState } from '../state/appState.js';
 import {
     getAllLocations,
     getPopularLocations,
@@ -372,22 +372,20 @@ function selectLocation(locationId) {
     const location = getLocationById(locationId);
     if (!location) return;
 
-    state.savedLocation = location;
-    state.locationMode = LOCATION_MODES.SAVED;
-    saveLocationPreferences({ mode: state.locationMode, savedLocation: location });
+    setState('savedLocation', location);
+    setState('locationMode', LOCATION_MODES.SAVED);
+    saveLocationPreferences({ mode: LOCATION_MODES.SAVED, savedLocation: location });
 
-    if (window.updateLocationWidget) window.updateLocationWidget();
     if (window.updatePlaces) window.updatePlaces();
 
     closePopover();
 }
 
 function selectCurrentLocation() {
-    state.savedLocation = null;
-    state.locationMode = LOCATION_MODES.CURRENT;
+    setState('savedLocation', null);
+    setState('locationMode', LOCATION_MODES.CURRENT);
     saveLocationPreferences({ mode: LOCATION_MODES.CURRENT, savedLocation: null });
 
-    if (window.updateLocationWidget) window.updateLocationWidget();
     if (window.updatePlaces) window.updatePlaces();
 
     closePopover();

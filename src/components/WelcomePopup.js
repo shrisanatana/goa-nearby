@@ -1,4 +1,4 @@
-import { state } from '../state/appState.js';
+import { state, setState } from '../state/appState.js';
 import { showLocationSelector } from './LocationSelector.js';
 import { getPopularLocations, saveLocationPreferences, LOCATION_MODES } from '../services/locationService.js';
 
@@ -369,15 +369,12 @@ function attachPopupListeners() {
 
     // Use current location
     currentBtn.addEventListener('click', () => {
-        state.locationMode = LOCATION_MODES.CURRENT;
+        setState('locationMode', LOCATION_MODES.CURRENT);
         saveLocationPreferences({
             mode: LOCATION_MODES.CURRENT,
             hasSeenWelcome: true
         });
         closeWelcomePopup();
-        if (window.updateLocationWidget) {
-            window.updateLocationWidget();
-        }
     });
 
     // Skip
@@ -403,8 +400,8 @@ function selectQuickLocation(locationId) {
 
     if (!location) return;
 
-    state.savedLocation = location;
-    state.locationMode = LOCATION_MODES.SAVED;
+    setState('savedLocation', location);
+    setState('locationMode', LOCATION_MODES.SAVED);
 
     saveLocationPreferences({
         mode: LOCATION_MODES.SAVED,
@@ -413,10 +410,6 @@ function selectQuickLocation(locationId) {
     });
 
     closeWelcomePopup();
-
-    if (window.updateLocationWidget) {
-        window.updateLocationWidget();
-    }
 
     if (window.updatePlaces) {
         window.updatePlaces();

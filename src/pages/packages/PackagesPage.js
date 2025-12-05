@@ -1,10 +1,13 @@
-import { state } from '../../state/appState.js';
+import { state, subscribe } from '../../state/appState.js';
 import { packageState, PACKAGES } from './state/packageState.js';
 import { generateOptimizedRoute, optimizeRoute } from './utils/routeOptimizer.js';
 import { renderPackageCard } from './components/PackageCard.js';
 import { renderRouteTimeline } from './components/RouteTimeline.js';
 import { renderCategoryFilter } from './components/CategoryFilter.js';
 import { navigateTo } from '../../utils/router.js';
+import { getEffectiveLocation } from '../../services/locationService.js';
+
+let locationSubscription = null;
 
 export function showPackages() {
     // Show packages page
@@ -27,6 +30,16 @@ export function showPackages() {
     const info = document.getElementById('info-page');
     if (info) info.innerHTML = '';
 
+    // Subscribe to location changes
+    if (!locationSubscription) {
+        locationSubscription = subscribe((event, data) => {
+            if (event === 'locationMode' || event === 'savedLocation') {
+                // Regenerate route when location changes
+                generateRoute();
+            }
+        });
+    }
+
     // Initial Render
     if (packageState.selectedPlaces.length === 0) {
         generateRoute();
@@ -41,10 +54,11 @@ function generateRoute() {
 
     // Simulate AI calculation delay
     setTimeout(() => {
-        const { userLocation } = state;
+        // Use effective location (respects saved location selection)
+        const effectiveLocation = getEffectiveLocation(state);
         const limit = PACKAGES[packageState.currentPackage].maxDist;
 
-        if (!userLocation || !state.places.length) {
+        if (!effectiveLocation || !state.places.length) {
             packageState.selectedPlaces = [];
             packageState.isCalculating = false;
             renderPackagesPage();
@@ -54,7 +68,7 @@ function generateRoute() {
         // Generate optimized route with category filters
         const route = generateOptimizedRoute(
             state.places,
-            userLocation,
+            effectiveLocation,
             limit,
             packageState.excludedCategories
         );
@@ -107,7 +121,7 @@ function renderPackagesPage() {
                 </div>
             ` : `
                 <!-- Summary Card -->
-                ${renderPackageCard(packageState.selectedPlaces, state.userLocation)}
+                ${renderPackageCard(packageState.selectedPlaces, getEffectiveLocation(state))}
 
                 <!-- Route Timeline -->
                 ${renderRouteTimeline(packageState.selectedPlaces)}
@@ -151,9 +165,10 @@ function renderPackagesPage() {
 
                 const container = document.getElementById('package-search-results');
                 container.innerHTML = results.map(p => {
-                    const dist = state.userLocation ? calculateDistance(
-                        state.userLocation.latitude,
-                        state.userLocation.longitude,
+                    const effectiveLoc = getEffectiveLocation(state);
+                    const dist = effectiveLoc ? calculateDistance(
+                        effectiveLoc.latitude,
+                        effectiveLoc.longitude,
                         p.latitude,
                         p.longitude
                     ).toFixed(1) : '?';
@@ -202,7 +217,7 @@ window.addPackagePlace = (id) => {
     if (place) {
         packageState.selectedPlaces.push(place);
         // Optimize the route after adding
-        packageState.selectedPlaces = optimizeRoute(packageState.selectedPlaces, state.userLocation);
+        packageState.selectedPlaces = optimizeRoute(packageState.selectedPlaces, getEffectiveLocation(state));
         window.closeAddPlaceModal();
         renderPackagesPage();
     }

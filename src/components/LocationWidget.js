@@ -1,4 +1,4 @@
-import { state } from '../state/appState.js';
+import { state, subscribe } from '../state/appState.js';
 import { showLocationSelector } from './LocationSelector.js';
 import { getEffectiveLocation, LOCATION_MODES } from '../services/locationService.js';
 
@@ -15,13 +15,20 @@ export function createLocationWidget() {
         showLocationSelector();
     });
 
-    // Expose update function
-    window.updateLocationWidget = () => {
+    // Subscribe to location state changes
+    subscribe((event, data) => {
+        if (event === 'locationMode' || event === 'savedLocation') {
+            updateWidgetDisplay();
+        }
+    });
+
+    // Internal update function
+    function updateWidgetDisplay() {
         const widget = document.getElementById('location-widget');
         if (widget) {
             widget.innerHTML = getWidgetHTML();
         }
-    };
+    }
 }
 
 function getWidgetHTML() {

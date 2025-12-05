@@ -1,28 +1,48 @@
-import { state } from '../../state/appState.js';
+import { state, subscribe } from '../../state/appState.js';
 import { renderPlaceCard } from '../Home/components/PlaceCard.js';
 import { hideMainContent } from '../../utils/dom.js';
 
+let locationSubscription = null;
+
 export function showFavorites() {
-    hideMainContent();
+  hideMainContent();
 
-    // Hide packages page if visible
-    const packagesPage = document.getElementById('packages-page');
-    if (packagesPage) packagesPage.classList.add('hidden');
+  // Hide packages page if visible
+  const packagesPage = document.getElementById('packages-page');
+  if (packagesPage) packagesPage.classList.add('hidden');
 
-    let favoritesPage = document.getElementById('favorites-page');
-    if (!favoritesPage) {
-        favoritesPage = document.createElement('div');
-        favoritesPage.id = 'favorites-page';
-        favoritesPage.className = 'container mx-auto px-4 py-4 pb-24';
-        document.querySelector('#app').appendChild(favoritesPage);
-    }
+  let favoritesPage = document.getElementById('favorites-page');
+  if (!favoritesPage) {
+    favoritesPage = document.createElement('div');
+    favoritesPage.id = 'favorites-page';
+    favoritesPage.className = 'container mx-auto px-4 py-4 pb-24';
+    document.querySelector('#app').appendChild(favoritesPage);
+  }
 
-    favoritesPage.classList.remove('hidden');
+  favoritesPage.classList.remove('hidden');
 
-    // Filter places that are in favorites
-    const favoritePlaces = state.places.filter(place => state.favorites.includes(place.id));
+  // Subscribe to location changes
+  if (!locationSubscription) {
+    locationSubscription = subscribe((event, data) => {
+      if (event === 'locationMode' || event === 'savedLocation') {
+        // Refresh favorites page when location changes
+        renderFavoritesContent();
+      }
+    });
+  }
 
-    const headerHTML = `
+  // Initial render
+  renderFavoritesContent();
+}
+
+function renderFavoritesContent() {
+  const favoritesPage = document.getElementById('favorites-page');
+  if (!favoritesPage) return;
+
+  // Filter places that are in favorites
+  const favoritePlaces = state.places.filter(place => state.favorites.includes(place.id));
+
+  const headerHTML = `
     <div class="mb-6 flex items-center gap-3">
       <button onclick="window.navigateTo('/')" class="p-2 -ml-2 rounded-full hover:bg-gray-100 transition-colors" aria-label="Go back">
         <svg class="w-6 h-6 text-gray-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -36,8 +56,8 @@ export function showFavorites() {
     </div>
   `;
 
-    if (favoritePlaces.length === 0) {
-        favoritesPage.innerHTML = `
+  if (favoritePlaces.length === 0) {
+    favoritesPage.innerHTML = `
       ${headerHTML}
       <div class="flex flex-col items-center justify-center py-12 text-center">
         <div class="bg-gray-100 p-4 rounded-full mb-4">
@@ -52,10 +72,10 @@ export function showFavorites() {
         </button>
       </div>
     `;
-        return;
-    }
+    return;
+  }
 
-    favoritesPage.innerHTML = `
+  favoritesPage.innerHTML = `
     ${headerHTML}
     <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-3">
       ${favoritePlaces.map(renderPlaceCard).join('')}
