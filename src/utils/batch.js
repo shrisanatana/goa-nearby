@@ -40,6 +40,40 @@ export function scheduleDistanceBatchCompute(delay = 150) {
     }, delay);
 }
 
+// Helper function to sort and reorder places in DOM
+function sortAndReorderPlaces() {
+    // Sort filteredPlaces by distance (nulls at end)
+    state.filteredPlaces.sort((a, b) => {
+        if (a.distance === null && b.distance === null) return 0;
+        if (a.distance === null) return 1; // a goes to end
+        if (b.distance === null) return -1; // b goes to end
+        return a.distance - b.distance; // ascending order (closest first)
+    });
+
+    // Get the grid container
+    const grid = document.getElementById('places-grid');
+    if (!grid) return;
+
+    // Create a map of current DOM order
+    const cards = Array.from(grid.querySelectorAll('.place-card'));
+    const cardMap = new Map();
+    cards.forEach(card => {
+        const id = parseInt(card.dataset.id);
+        cardMap.set(id, card);
+    });
+
+    // Reorder DOM to match sorted filteredPlaces
+    state.filteredPlaces.forEach((place, index) => {
+        const card = cardMap.get(place.id);
+        if (card) {
+            // Add smooth transition
+            card.style.transition = 'transform 0.3s ease, opacity 0.2s ease';
+            // Append to move to correct position
+            grid.appendChild(card);
+        }
+    });
+}
+
 // Batch compute distances and progressively update DOM
 function batchComputeDistances(token, loc) {
     // Prevent concurrent runs for same token
@@ -87,6 +121,9 @@ function batchComputeDistances(token, loc) {
             }
         }
 
+        // After each batch, sort and reorder the DOM
+        sortAndReorderPlaces();
+
         // If more to process, schedule next chunk
         if (i < total) {
             runIdle(processChunk);
@@ -129,51 +166,13 @@ function batchRenderPlaces(token) {
         if (!grid) { renderBatchController.running = false; return; }
     }
 
-    // Add fade-out transition to existing cards
-    const existingCards = grid.querySelectorAll('.place-card, .skeleton-card');
-    if (existingCards.length > 0) {
-        existingCards.forEach(card => {
-            card.style.opacity = '0';
-            card.style.transition = 'opacity 150ms ease-out';
-        });
-
-        // Wait for fade out, then show skeleton and render new cards
-        setTimeout(() => {
-            // Show skeleton cards while loading
-            const skeletonCount = Math.min(state.filteredPlaces.length, 8);
-            const skeletonHTML = Array(skeletonCount).fill(0).map(() => `
-                <div class="skeleton-card bg-white rounded-lg shadow-md overflow-hidden animate-pulse">
-                    <div class="h-28 bg-gray-200"></div>
-                    <div class="p-3 space-y-2">
-                        <div class="h-4 bg-gray-200 rounded w-3/4"></div>
-                        <div class="h-3 bg-gray-200 rounded w-1/2"></div>
-                    </div>
-                </div>
-            `).join('');
-
-            grid.innerHTML = skeletonHTML;
-
-            // Fade in skeletons
-            requestAnimationFrame(() => {
-                const skeletons = grid.querySelectorAll('.skeleton-card');
-                skeletons.forEach(skeleton => {
-                    skeleton.style.opacity = '0';
-                    skeleton.style.transition = 'opacity 150ms ease-in';
-                    skeleton.offsetHeight;
-                    skeleton.style.opacity = '1';
-                });
-            });
-
-            // Start rendering actual cards after a brief moment
-            setTimeout(() => {
-                grid.innerHTML = '';
-                renderNewCards(token, grid);
-            }, 100);
-        }, 150);
-    } else {
-        // No existing cards, render immediately
-        renderNewCards(token, grid);
+    // Clear existing cards if any
+    if (grid.querySelector('.place-card, .skeleton-card')) {
+        grid.innerHTML = '';
     }
+
+    // Render all cards immediately - no skeleton, no delays
+    renderNewCards(token, grid);
 }
 
 function renderNewCards(token, grid) {
@@ -195,21 +194,9 @@ function renderNewCards(token, grid) {
             return;
         }
 
-        // Build HTML for this chunk and append
+        // Build HTML for this chunk and append - show immediately without fade
         const html = state.filteredPlaces.slice(start, end).map(renderPlaceCard).join('');
         grid.innerHTML += html;
-
-        // Fade in new cards
-        const newCards = grid.querySelectorAll('.place-card');
-        newCards.forEach((card, index) => {
-            if (index >= start) {
-                card.style.opacity = '0';
-                card.style.transition = 'opacity 200ms ease-in';
-                // Trigger reflow
-                card.offsetHeight;
-                card.style.opacity = '1';
-            }
-        });
 
         renderBatchController.index = end;
 
