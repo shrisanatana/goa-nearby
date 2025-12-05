@@ -124,7 +124,8 @@ function renderPackagesPage() {
                 ${renderPackageCard(packageState.selectedPlaces, getEffectiveLocation(state))}
 
                 <!-- Route Timeline -->
-                ${renderRouteTimeline(packageState.selectedPlaces)}
+                ${renderRouteTimeline(packageState.selectedPlaces, getEffectiveLocation(state), state)}
+
 
                 <!-- Actions -->
                 <div class="mt-6 flex gap-2 mx-3 mb-3">
